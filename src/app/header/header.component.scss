@@ -1,0 +1,15 @@
+$header-background-color: #B710AC;
+$header-font-stack: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+header {
+  font-family : $header-font-stack;
+  color : white;
+}
+
+#head-header {
+  background-color: $header-background-color;
+}
+
+nav {
+  background-color: #E9E4E8;
+}
