@@ -1,8 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { FormsModule } from '@angular/forms';
-import { ReactiveFormsModule } from '@angular/forms';
-import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -16,14 +13,8 @@ import { SongsService } from './services/songs.service';
 import { AuthService } from './services/auth.service';
 import { AuthGuardService } from './services/auth-guard.service';
 // import { from } from 'rxjs';
-import { Routes, RouterModule } from '@angular/router';
-
-const appRoutes: Routes = [
-  {path: 'auth/signin', component: SigninComponent},
-  {path: 'songs', component: SongListComponent},
-  {path: 'songs/new', component: SongFormComponent},
-  {path: 'songs/view/id', component: SingleSongComponent}
-];
+// import { Routes, RouterModule } from '@angular/router';
+import { SharedModulesModule } from './shared-modules/shared-modules.module';
 
 @NgModule({
   declarations: [
@@ -38,10 +29,7 @@ const appRoutes: Routes = [
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule,
-    ReactiveFormsModule,
-    HttpClientModule,
-    RouterModule.forRoot(appRoutes)
+    SharedModulesModule
   ],
   providers: [SongsService, AuthService, AuthGuardService],
   bootstrap: [AppComponent]

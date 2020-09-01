@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "language": "French",
+    "author": "",
+    "title": "C’EST COMME LE CIEL",
+    "choir": "C'est comme le ciel pour moi<br>C'est comme le ciel pour moi<br>Je passe le Jourdain<br>Pour le beau Canaan<br>Et c’est comme le ciel pour moi",
+    "verses": [
+      {"num":1, "text": "1. Nous trouvons des gens<br>Qui ne peuvent pas comprendre<br>Pourquoi nous sommes libres et heureux<br>Nous passons le Jourdain<br>Pour le beau Canaan<br>Et c’est comme le ciel pour moi."},
+      {"num":2, "text": "2. Oh, quand je suis heureux<br>Je chante et je prie<br>Satan ne le croit pas je sais<br>Mais je suis ravi de l’Esprit point de doute<br>Et c’est bien cela mon problème."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 2,
+    "language": "French",
+    "author": "",
+    "title": "PRENDS LE NOM DE JESUS",
+    "choir": "Précieux Nom, Nom si doux<br>Espoir de la terre, joie du ciel<br>Précieux Nom, Nom si doux<br>Espoir de la terre, joie du ciel",
+    "verses": [
+      {"num": 1, "text": "1. Prends le nom de Jésus avec toi<br>Enfant de tristesse et peine<br>Il va te procurer la joie<br>Prends Le partout où tu vas."},
+      {"num": 2, "text": "2. Prends toujours le Nom de Jésus<br>Comme bouclier face aux pièges<br>Quand les tentations surviennent<br>Murmure ce Nom en priant."},
+      {"num": 3, "text": "3. Oh, le précieux Nom de Jésus<br>Fais frémir nos âmes de joie<br>Lorsque Ses bras nous reçoivent<br>Et nous chantons Ses cantiques."},
+      {"num": 4, "text": "4. A Son Nom nous nous inclinons<br>Nous prosternons à Ses pieds<br>Roi des rois nous le couronnerons<br>Quand le voyage est fini."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 3,
+    "language": "French",
+    "author": "",
+    "title": "OH! PRENDS MON AME",
+    "choir": "Source de vie, de Paix d’Amour<br>Vers Toi je crie la nuit, le jour<br>Entends ma plainte, Sois mon soutien<br>Calme ma crainte, Sois mon seul bien.",
+    "verses": [
+      {"num": 1, "text": "O prends mon âme, prends-la, Seigneur<br>Et que Ta flamme brûle dans mon cœur<br>Que tout mon être vibre pour Toi<br>Sois seul mon Maître, ô divin Roi."},
+      {"num": 2, "text": "Du mal perfide, Ô garde moi<br>Viens sois mon guide, chef de ma foi<br>Quand la nuit voile tout à mes yeux<br>Sois mon étoile, brille des cieux."},
+      {"num": 3, "text": "Voici l’aurore d’un jour nouveau<br>Le ciel s’éclore d’un feu plus beau<br>Messie s’apprête, pourquoi gémir<br>Levons nos têtes, Il va venir."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 4,
+    "language": "French",
+    "author": "",
+    "title": "OH ! PETIT AIGLON",
+    "choir": "Oh, petit aiglon<br>Ta vie n’est pas ici-bas<br>Monte la montagne des tonnerres<br>C’est  là-haut tu trouveras la vie.",
+    "verses": [
+      {"num": 1, "text": "Tu as deux ailes<br>Constituée pour t’envoler<br>Viens, Ô viens je t’appelle<br>Bats tes ailes et monte vers Moi."},
+      {"num": 2, "text": "Ecoute, écoute aussi mon cri<br>Y’a-t-il de comparable à Moi<br>Là où tu es dans la basse cour<br>Tu es à Moi Ô viens je suis à toi."},
+      {"num": 3, "text": "Regarde à moi ta Mère<br>Vois-tu combien je suis Grand<br>Ainsi tu es semblable à Moi<br>Monte ici, aiglon, monte ici."},
+      {"num": 4, "text": "Quitte fuit Laodicée<br>Qui est ni chaud, ni froid<br>Monte viens vers Moi<br>Pour t’envoler là à l’éternité."}
+    ],
+    "otherInfos": ""
+  }
+]

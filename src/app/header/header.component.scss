@@ -1,9 +1,13 @@
 $header-background-color: #B710AC;
 $header-font-stack: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 
-header {
+.title {
   font-family : $header-font-stack;
   color : white;
+}
+
+.title:hover {
+  text-decoration: none;
 }
 
 #head-header {

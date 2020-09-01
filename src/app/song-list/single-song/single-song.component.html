@@ -1,13 +1,19 @@
 <div>
-  <div>
-    <h4>{{song.title}}</h4>
+  <app-header></app-header>
+
+  <div class="container ">
+    <div class="row row-cols-3 d-flex justify-content-around">
+      <div class="col-6">
+        <div>
+          <h4>{{song.title}}</h4>
+        </div>
+
+        <div *ngFor="let verse of song.verses">
+          <p [innerHTML]="verse.text"><P>
+          <p [innerHTML]="song.choir"><p>
+        </div>
+      </div>
+    </div>
   </div>
 
-  <div>
-    <p>{{song.choir}}</p>
-  </div>
-
-  <!--div *ngFor="let verse of song?.verses">
-    <p>{{verse?.text}}<P>
-  </div-->
 </div>

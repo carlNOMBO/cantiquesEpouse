@@ -16,9 +16,7 @@ export class SingleSongComponent implements OnInit {
 
   ngOnInit() {
     this.song = new Song();
-    this.route.queryParams.subscribe(params => {
-      this.song = this.songsService.getSongById(params['name']);
-    });
+    this.song = this.songsService.getSongById(Number(this.route.snapshot.paramMap.get('id')));
   }
 
 }
