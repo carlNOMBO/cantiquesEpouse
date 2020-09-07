@@ -32,4 +32,15 @@ export class SongsService {
       }
     }
   }
+
+  filterSongsByTitleChoir(text: string) {
+    const songs: Song[] = new Array();
+
+    this.songs.forEach( (song) => {
+      if (song.title.toLowerCase().includes(text.toLowerCase()) || song.choir.toLowerCase().includes(text.toLowerCase())) {
+        songs.push(song);
+      }
+    });
+    return songs;
+  }
 }

@@ -25,8 +25,11 @@ export class SongListComponent implements OnInit {
   }
 
   onReadSong(id: number) {
-    console.log(id);
     this.router.navigate(['/songs', 'view', id]);
+  }
+
+  onSearch(text: any) {
+    this.songs = this.songsService.filterSongsByTitleChoir(text);
   }
 
   getChoirInline(choir: string) {
