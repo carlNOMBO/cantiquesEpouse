@@ -1,7 +1,375 @@
 [
   {
     "id": 1,
-    "language": "French",
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "A DIEU SOIT LA GLOIRE",
+    "choir": "Gloire à Dieu (x2)<br>Terre écoute sa voix !<br>Gloire à Dieu (x2)<br>Monde réjouis-toi !<br>Oh ! Venez au père<br>Jésus est vainqueur<br>Que toute la Terre<br>Chante en son honneur",
+    "verses": [
+      {"num":1, "text": "A Dieu soit la gloire<br>Par son grand amour<br>Dans mon âme noire<br>S’est levé le jour<br>Jésus à ma place<br>Mourut sur la croix<br>Il m’offre sa grâce<br>Et je la reçois."},
+      {"num":2, "text": "De jésus la joie<br>Remplit notre cœur<br>Qu’importe qu’on voie<br>Tout notre bonheur<br>Selon sa promesse<br>Jésus changera<br>Deuil en allégresse<br>Quand il reviendra."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 2,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "AU MATIN DE RÉSURRECTION",
+    "choir": "Nous vivrons, alléluia! Nous vivrons, amen !<br>Nous vivrons, alléluia! Matin de la résurrection<br>Sans brisée les barres de la mort<br>Nous vivrons, alléluia! Nous vivrons !",
+    "verses": [
+      {"num":1, "text": "Au matin de résurrection<br>La trompette de Dieu sonnera<br>Nous vivrons, alléluia! Nous vivrons<br>Les saints viendront se réjouissant<br>Aucune larme ne sera trouvée<br>Nous vivrons, alléluia! Nous vivrons."},
+      {"num":2, "text": "Au matin de résurrection<br>Oh! Quelle rencontre ça sera<br>Nous vivrons, alléluia! Nous vivrons<br>Quand nos pères et nos mères<br>Et nos bien-aimés nous verrons<br>Nous vivrons, alléluia! Nous vivrons."},
+      {"num":3, "text": "Au matin de résurrection<br>Bénie soit pour moi cette pensée<br>Nous vivrons, alléluia! Nous vivrons<br>Je verrai mon Sauveur béni<br>Qui pour moi mourut librement<br>Nous vivrons, alléluia! Nous vivrons."},
+      {"num":4, "text": "Au matin de résurrection<br>Dans les airs nous Le rencontrerons<br>Nous vivrons, alléluia! Nous vivrons<br>Et emportés dans la gloire<br>Vers notre demeure pure et belle<br>Nous vivrons, alléluia! Nous vivrons."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 3,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "AU NOM DE JÉSUS",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Au Nom de Jésus (2x)<br>Nous avons la victoire<br>Au Nom de Jésus (2x)."},
+      {"num":2, "text": "Si nous  avons le Nom de Jésus<br>Dites-moi qui peut résister<br>Au Nom Puissant de Jésus-Christ<br>Nous avons la victoire."},
+      {"num":3, "text": "Yembela Ye na esengo alleluya!<br>Nkolo Yesu a longi etumba."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 4,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "AVEC DES CRIS DE JOIE",
+    "choir": "Avec des cris de joie<br>Ma bouche Te chantera<br>J’élèverai mes mains<br>Et Te célébrerai.",
+    "verses": [
+      {"num":1, "text": "Oh! Dieu, Tu es mon Dieu<br>Mon âme Te recherche<br>Et soupire après Toi<br>Sur la terre desséchée."},
+      {"num":2, "text": "Je connais le bonheur<br>A l’ombre de Tes ailes<br>Car Tu es mon secours<br>Ta droite me soutient."},
+      {"num":3, "text": "J’aime Te contempler<br>Car dans Ton sanctuaire<br>Ta Gloire resplendit<br>Ta puissance se révèle."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 5,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "AVEC NOTRE ROI",
+    "choir": "Avec notre Roi<br>Nous irons au bout de la terre<br>Partager la joie, le bonheur<br>Et la lumière",
+    "verses": [
+      {"num":1, "text": "Formons tous une chaîne<br>Que l’on ne peut briser<br>Eloignons la haine<br>Et créons l’unité."},
+      {"num":2, "text": "Nous bâtissons ce royaume<br>De joie et de gaieté<br>Tout le monde va venir<br>La vie va commencer"},
+      {"num":3, "text": "La victoire est déjà là<br>Venez tous avec nous<br>Vous ferrez les premiers pas<br>Vous irez jusqu’au bout."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 6,
+    "language": "LINGALA",
+    "author": "",
+    "title": "BA MPATE",
+    "choir": "Na zali koluka ba mpate na Yesu<br>Ba bungaki kala na kati ya lopango<br>Oh! Bazonga epayi na Yesu (2x)<br>Bo ya ko kota na kati ya lopango.",
+    "verses": [
+      {"num":1, "text": "Nkolo Yesu a boyaka moto te<br>A ta yo zali mabe ndengue nionso<br>A kobenga yo solo okende epayi na Ye<br>A kobongola yo okoma mo santo."},
+      {"num":2, "text": "Nkolo Yesu a sila kokufela yo<br>A zuaki mikumba na yo nionso<br>A kobila yo kaka okende epayi na Ye<br>Okamata lobiko na kondima."},
+      {"num":3, "text": "ba mpate boyoka soni te<br>Yesu azali na yo mawa<br>A ko ndima yo ya ngo<br>Yoka liloba ya Massia Nkolo Yesu."},
+      {"num":4, "text": "Azali ko bianga yo epayi na Ye<br>O ba zonga epayi na Yesu (2x)<br>Bo ya kokota na bilaka ya Nzambe."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 7,
+    "language": "LINGALA",
+    "author": "",
+    "title": "BA SANTU YA KALA",
+    "choir": "<br><br>",
+    "verses": [
+      {"num":1, "text": "Ba yekoli ya kala ba tambolaki na Ye<br>Tambola na Nkolo Yesu. (2x)"},
+      {"num":2, "text": "Ba santu ya kala ba tambolaki na Ye<br>Tambola na Nkolo Yesu.  (2x)"},
+      {"num":3, "text": "Ba ndimi ya kala ba tambolaki na Ye<br>Tambola na Nkolo Yesu.  (2x)"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 8,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "BECAUSE HE LIVES",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Because He lives I can face tomorrow<br>Because He lives all fear is gone<br>Because I know He holds the future<br>My life is worth the living just<br>Because He lives"},
+      {"num":2, "text": "Because He’s here I can face tomorrow<br>Because He’s here all fear is gone<br>Because I know I’m in is presence<br>My life is worth the living just<br>Because He’s here."},
+      {"num":3, "text": "Because I’m saved I can face tomorrow<br>Because I’m saved all fear is gone<br>Because I know He’s my redeemer<br>My life is worth the living just<br>Because I’m saved."}
+    ],
+    "otherInfos": "9"
+  },
+
+  {
+    "id": 9,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "PARCE QU'IL VIT",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Parce qu’Il vit je peut tout affronter<br>Parce qu’Il vit toute peur est partie<br>Parce que je sais Il tient le futur<br>Ma vie celle du juste vivant<br>Parce qu’Il vit."},
+      {"num":2, "text": "Parce qu’Il est présent je peux tout affronter<br>Parce qu’Il est présent toute peur est partie<br>Parce que je sais je suis dans Sa présence<br>Ma vie vaut celle du juste<br>Vivant parce qu’Il est présent."},
+      {"num":3, "text": "Car je suis sauvé je peux tout affronter<br>Car je suis sauvé toute partie<br>Parce que je sais Il est mon rédempteur<br>Ma vie vaut celle du juste vivant<br>Car je suis sauvé."}
+    ],
+    "otherInfos": "8"
+  },
+
+  {
+    "id": 10,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "BENI SOIT LE NOM",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Béni soit le Nom<br>Béni soit le Nom<br>Béni soit le Nom du Seigneur."},
+      {"num":2, "text": "Jésus est le nom<br>Jésus est le nom<br>Jésus est le nom du Seigneur."},
+      {"num":3, "text": "Loué soit le Nom<br>Loué soit le Nom<br>Loué soit le Nom du Seigneur."},
+      {"num":4, "text": "Glorieux est le Nom<br>Glorieux est le Nom<br>Glorieux est le Nom du Seigneur."},
+      {"num":5, "text": "Précieux est le Nom<br>Précieux est le Nom<br>Précieux est le Nom du Seigneur."},
+      {"num":6, "text": "Puissant est le Nom<br>Puissant est le Nom<br>Puissant est le Nom du Seigneur."}
+    ],
+    "otherInfos": "11"
+  },
+
+  {
+    "id": 11,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "BLESSED THE NAME",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Blessed be the Name<br>Blessed be the Name<br>Blessed be the name of the Lord."},
+      {"num":2, "text": "Jesus is the Name<br>Jesus is the Name<br>Jesus is the name of the Lord."},
+      {"num":3, "text": "Glorious is the Name<br>Glorious is the Name<br>Glorious is the Name of the Lord."},
+      {"num":4, "text": "Precious is the Name<br>precious is the Name<br>Precious is the Name of the Lord."},
+      {"num":5, "text": "Mighty is the Name<br>Mighty is the Name<br>Mighty is the Name of the Lord."},
+      {"num":6, "text": "Holy is the Name<br>Holy is the Name<br>Holy is the Name of the Lord."}
+    ],
+    "otherInfos": "10"
+  },
+
+  {
+    "id": 12,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "BENIS-MOI AVANT DE PARTIR",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Bénis-moi (2x)<br>Bénis-moi avant de partir"},
+      {"num":2, "text": "Soutiens-moi (2x)<br>Soutiens-moi avant de partir"},
+      {"num":3, "text": "Exauce-moi (2x)<br>Exauce-moi avant de partir"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 13,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "BIENTÔT DANS LA DOUCEUR",
+    "choir": "Bientôt dans la douceur<b>Nous nous rencontrerons sur cette rive<b>Bientôt dans la douceur<b>Nous nous rencontrerons sur cette rive.",
+    "verses": [
+      {"num":1, "text": "Il y a un endroit plus beau qu’un jour<b>Et par la foi nous pouvons le voir<b>Car le Père nous attend sur le chemin<b>Pour nous préparer là un palais."},
+      {"num":2, "text": "Nous chanterons sur ce beau rivage<b>Chants mélodieux de bénédiction<b>Nos esprits ne s’affligeront plus<b>Pas un soupir pour les bénédictions."},
+      {"num":3, "text": "A notre généreux Père Céleste<b>Nous offrirons nos hommages louanges<b>Pour le Glorieux don de Son Amour<b>Et les bénédictions consacrées."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 14,
+    "language": "LARI",
+    "author": "",
+    "title": "BIZUTU BIABIO",
+    "choir": "Imvulusu wena ye nduenga<b>Mu dedisa mambu mamo<b>Kadi Yesu ulenda sala<b>Monso mena mampasi kwa nge.",
+    "verses": [
+      {"num":1, "text": "Bizitu biabio tuna tuala<b>Kwa Yesu unatanga bio<b>Zingolo zazo zena yandi<b>Mu yandi tusiamuswanga."},
+      {"num":2, "text": "Mu Mvulusi mwena mamonso<b>Mu bomba ye vundisa nge<b>Vo kiadi kikotanga ntima<b>Kwa yandi unkamba kiakio."},
+      {"num":3, "text": "Vo vongele nitu mu salu<b>Ulenda kusiamisanga<b>Uzeyi mamo mauvengi<b>Uwanga tusambula mpe."},
+      {"num":4, "text": "Wakangua mu mfu bia masumu<b>Wulenda kunkutulabio<b>Mu Mvulusi mwena kimpuaza<b>Ye ndungunu muna mamo."},
+      {"num":5, "text": "Wuyukutisanga mintima<b>Milembane nza fuluza<b>Mu mpeve kabiekanga mwela<b>Voyekole ntima wawo."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 15,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "BON SAUVEUR BERGER FIDELE",
+    "choir": "Béni sois-Tu tendre Maître<b>Jésus nous sommes à Toi<b>A Toi seul nous voulons être<b>Béni sois-Tu notre Roi.",
+    "verses": [
+      {"num":1, "text": "Bon Sauveur Berger Fidèle<b>Conduis-nous par Ton Amour<b>Et de Ta main paternelle<b>Nourris-nous au jour le jour."},
+      {"num":2, "text": "Dans Tes riches pâturages<b>Apprends- nous à Te chercher<b>Que sous Tes divins ombrages<b>Nous sachions toujours marcher."},
+      {"num":3, "text": "Toi qui nous reçu par grâce<b>Bien que faibles et pécheurs<b>Par Ta puissance efficace<b>Purifie encore nos cœurs."},
+      {"num":4, "text": "Enfants nous Te plaire<b>T’obéir garder Ta Loi<b>Oh pour cela daigne faire<b>Que nous vivions par Ta foi."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 16,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "BRULE, BRULE, ESPRIT SAINT",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Brûle, brûle, Esprit Saint, brûle en moi<br>Enflamme tout mon cœur<br>Remplis-moi du Saint-Esprit<br>Et de ta volonté."},
+      {"num":2, "text": "Rends-moi comme Jésus qui guérissait<br>Ressuscitait les morts<br>Donne-moi le pouvoir de Jésus<br>Par le sang répandu."}
+    ],
+    "otherInfos": "17"
+  },
+
+  {
+    "id": 17,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "BURN, BURN, HOLY SPIRIT",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Burn, burn, Holy Spirit, burn in me<br>Set my soul on fire<br>Fill me with Thy Holy Ghost<br>And of Thy desire."},
+      {"num":2, "text": "Make me like Jesus that was<br>Healing, raising the dead<br>Give me the power that Jesus had<br>Thru the blood that was shed."}
+    ],
+    "otherInfos": "16"
+  },
+
+  {
+    "id": 18,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "C’EST ASSEZ POUR ME FAIRE",
+    "choir": "C’est assez pour me faire chanter! (2x)<br>mes péchés sont pardonnés,<br>Et je m’en vais vers le Ciel ;<br>C’est assez pour me faire chanter !<br>… Danser ….<br>… Crier ……<br>… Sauter ….",
+    "verses": [],
+    "otherInfos": "19"
+  },
+
+  {
+    "id": 19,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "THAT'S ENOUGH TO MAKE ME",
+    "choir": "That’s enough to make me sing! (2x)<br>My sins are all forgiven,<br>I’m on my way to Heaven;<br>That’s enough to make me sing!",
+    "verses": [],
+    "otherInfos": "18"
+  },
+
+  {
+    "id": 20,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "C’EST ICI LA MAISON DE DIEU",
+    "choir": "C’est ici la maison de Dieu<br>C’est ici la porte des cieux<br>Un lieu pour le rencontrer<br>Et l’adore.",
+    "verses": [],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 21,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CAR TA BONTÉ",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Car Ta bonté vaut mieux que la vie (2x)<br>Mes lèvres célèbrent Tes louanges<br>J’élèverai mes mains en Ton Nom."},
+      {"num":2, "text": "Car Ta bonté vaut mieux que le vin (2x)<br>Mes lèvres célèbrent Tes louanges<br>J'élèverai mes mains en Ton Nom."},
+      {"num":3, "text": "J’élèverai mes mains en Ton nom (2x)<br>Mes lèvres célèbrent Tes louanges.<br>J’élèverai mes mains en Ton Nom."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 22,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CE MONDE N’EST PAS CHEZ MOI",
+    "choir": "Seigneur, Tu sais<br>Il n’y a point d’amis comme Toi<br>Si le ciel n’est pas chez moi<br>Alors que ferais-je<br>Les anges me font signe<br>Depuis la porte du ciel<br>Et je ne me sens jamais<br>Comme chez moi dans ce monde.",
+    "verses": [
+      {"num":1, "text": "Ce monde n’est pas chez moi<br>Je suis juste un passant<br>Et mes trésors s’entassent<br>Quelque part là au ciel<br>Les anges me font signe<br>Depuis la porte du ciel<br>Et je ne me sens jamais<br>Comme chez moi dans ce monde."},
+      {"num":2, "text": "Tous sont à mon attente<br>C’est tout ce que je sais<br>Il y a longtemps avec Christ<br>J’ai bien tout arrangé<br>Bien que faible et pauvre<br>Je sais qu’il me soutient<br>Et je ne me sens jamais<br>Comme chez moi dans ce monde."},
+      {"num":3, "text": "Dans le pays de gloire<br>Nous vivrons à jamais<br>De tout côté les saints<br>Crient victoire dans les chants<br>De la plus douce louange <br>Qui monte depuis le ciel<br>Et je ne me sens jamais<br>Comme chez moi dans ce monde."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 23,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "WHATEVER YOU NEED JESUS-CHRIST’S GOT IT",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Whatever you need jesus-christ’s got  it<br>He who is the redeemer and the truth<br>The love of god’s been reveal for you and me<br>Find in him your blessed assurance."},
+      {"num":2, "text": "If you let jesus come into your life<br>And his bright word still remain in you<br>This world cannot get control of your life<br>For a new character you’ll receive."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 24,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CE VIEUX MONDE NE PEUT ME LIER",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Ce vieux monde ne peut me lier<br>Je m’en irai n’importe quand<br>Parce que je me suis consacré<br>Et je porte mon habit de noces."}
+    ],
+    "otherInfos": "25"
+  },
+
+  {
+    "id": 25,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "THIS OLD WORLD CAN NEVER HOLD ME",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "This old world can never hold me<b>I will be gone any moment<b>For I have made my consecration<b>And I have the wedding garment."}
+    ],
+    "otherInfos": "24"
+  },
+
+  {
+    "id": 26,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CELUI QUI BOIRA",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Celui qui boira de l’eau<br>Que je lui donnerai<br>N’aura jamais soif dans sa vie<br>Et ce que je donnerai<br>Deviendra une source d’eau<br>Qui jaillira dans la vie éternelle"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 27,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CELUI QUI MET EN JESUS CHRIST",
+    "choir": "Par la foi nous marcherons<br>Par la foi nous triomphons<br>Par la foi mon rédempteur<br>Me rendra plus que vainqueur.",
+    "verses": [
+      {"num":1, "text": "Celui qui met en Jésus-Christ<br>Une pleine confiance<br>Jamais ne chancelle plus<br>Complète est sa délivrance."},
+      {"num":2, "text": "Dans les jours d’adversité<br>Quand tu sens gronder l’orage<br>Regarde en sécurité<br>A Christ et reprend courage."},
+      {"num":3, "text": "Quand Satan veut te troubler<br>Enlever ton espérance<br>Ton passé te reproche<br>Que Christ soit ton assurance."},
+      {"num":4, "text": "Par la foi je marcherai<br>En comptant sur Ses promesses<br>Par Lui je triompherai<br>En tout temps, de mes détresses."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 28,
+    "language": "FRANCAIS",
     "author": "",
     "title": "C’EST COMME LE CIEL",
     "choir": "C'est comme le ciel pour moi<br>C'est comme le ciel pour moi<br>Je passe le Jourdain<br>Pour le beau Canaan<br>Et c’est comme le ciel pour moi",
@@ -13,8 +381,2785 @@
   },
 
   {
-    "id": 2,
-    "language": "French",
+    "id": 29,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "C’EST LA PROMESSE DE LA DERNIERE PLUIE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "C’est la promesse de la dernière pluie !<br>Lève les yeux et vois le blé mur<br>Signes puissants, miracles au Nom de Jésus<br>Bois, oh ! Bois, mon peuple :<br>C’est la dernière pluie."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 30,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "C'EST MON JOYEUX SERVICE",
+    "choir": "Accepte mon offrande<br>Bien-aimé Fils de Dieu<br>Et que sur moi descende<br>La flamme du Saint Lieu.",
+    "verses": [
+      {"num":1, "text": "C’est mon joyeux service<br>D’offrir à Jésus-Christ<br>un vivant sacrifice<br>Mon corps et mon esprit."},
+      {"num":2, "text": "J’abandonne ma vie<br>Sans regret ni frayeur<br>A Ta Grâce infinie<br>O mon libérateur."},
+      {"num":3, "text": "Qu’un feu nouveau s’allume<br>Par ton Amour en moi<br>Et dans mon cœur consume<br>Ce qui n’est pas à toi."},
+      {"num":4, "text": "Viens, Jésus, sois mon Maître<br>Par Ton Sang racheté<br>A toi seul je veux être<br>Et pour l’Eternité."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 31,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "C’EST UNE EPOUSE GLORIEUSE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "C’est une épouse glorieuse Sans tâche ni ride<br>Lavée dans le sang de l’Agneau<br>C’est une épouse glorieuse sans tâche ni ride<br>Lavée dans le sang de l’Agneau."},
+      {"num":2, "text": "C’est une épouse glorieuse<br>Et j’en suis membre<br>Lavée dans le Sang de l’Agneau<br>C’est une épouse glorieuse<br>Et j’en suis membre<br>Lavée dans le Sang de l’Agneau."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 32,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "C’EST UNE GRACE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "(C’est une Grâce<br>Que le Seigneur a faite pour moi)  (2x)<br>Il a changé ma vie<br>M’a rempli de Son Amour<br>C’est une Grâce<br>Que le Seigneur a faite pour moi."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 33,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "C’EST UNE GRÂCE,UNE GRÂCE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "C’est une grâce, une grâce<br>De servir le Seigneur (2x)<br>C’est une grâce de servir le Seigneur. (2x)"},
+      {"num":2, "text": "C’est une grâce, une grâce<br>De chanter le Seigneur (2x)<br>C’est une grâce de chanter le Seigneur. (2x)"},
+      {"num":3, "text": "C’est une grâce, une grâce<br>De louer le Seigneur (2x)<br>C’est une grâce de louer le Seigneur. (2x)"},
+      {"num":4, "text": "C’est une grâce, une grâce<br>D’adorer le Seigneur (2x)<br>C’est une grâce d’adorer le Seigneur. (2x)"},
+      {"num":5, "text": "C’est une grâce, une grâce<br>De prier le Seigneur (2x)<br>C’est une grâce de prier le Seigneur (2x)"}
+    ],
+    "otherInfos": "34"
+  },
+
+  {
+    "id": 34,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "IT IS GRACE, IT'S GRACE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "It is grace, it’s grace<br>Grace to serve the Lord (2x)<br>It is grace, grace to serve the Lord."},
+      {"num":2, "text": "It is grace, it’s grace<br>Grace to pray the Lord (2x)<br>It is grace, grace to pray the Lord."},
+      {"num":3, "text": "It is grace, it’s grace<br>Grace to praise the Lord (2x)<br>It is grace, grace to praise the Lord."},
+      {"num":4, "text": "It is grace, it’s grace<br>Grace to sing the Lord (2x)<br>It is grace, grace to sing the Lord."},
+      {"num":2, "text": "It is grace, it’s grace<br>Grace to shout the Lord (2x)<br>It is grace, grace to shout the Lord."}
+    ],
+    "otherInfos": "33"
+  },
+
+  {
+    "id": 35,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CHANTE ALLÉLUIA",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Chante alléluia! Au Seigneur<br>Chante alléluia! Au Seigneur<br>Chante alléluia! Chante alléluia<br>Chante alléluia! Au Seigneur."},
+      {"num":2, "text": "Jésus est ressuscité des morts<br>Jésus est ressuscité des morts<br>Jésus est ressuscité<br>Jésus est ressuscité<br>Jésus est ressuscité des morts."}
+    ],
+    "otherInfos": "36"
+  },
+
+  {
+    "id": 36,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "SING HALLELUJAH",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Sing hallelujah to the Lord ! (2x)<br>Sing hallelujah, sing hallelujah !<br>Sing hallelujah to the Lord !"},
+      {"num":2, "text": "Jesus is risen from the dead (2x)<br>Jesus is risen, Jesus is risen<br>Jesus is risen from the dead."}
+    ],
+    "otherInfos": "35"
+  },
+
+  {
+    "id": 37,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CHANTE UNE MELODIE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Chante une mélodie dans ton cœur (3x)<br>A notre Roi des rois<br>Honore et adore-Le ! (2x)<br>Chante une mélodie dans ton cœur<br>A notre Roi des rois."}
+    ],
+    "otherInfos": "38"
+  },
+
+  {
+    "id": 38,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "SING A MELODY",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Making melody in your heart (3x)<br>Unto the Kind of kings<br>Worship and adore Him (2x)<br>Making melody in your heart (3x)<br>Unto the Kind of kings."}
+    ],
+    "otherInfos": "37"
+  },
+
+  {
+    "id": 39,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CHAQUE INSTANT DE CHAQUE JOUR",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Chaque instant de chaque jour<br>Jésus prend soin de moi<br>Chaque instant de chaque jour<br>Mon cœur est dans la joie<br>Depuis que christ m’a sauvé<br>C’est le bonheur<br>Libéré de mon péché<br>J’ai la paix dans mon cœur."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 40,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CHERCHEZ D’ABORD LE ROYAUME DE DIEU",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Cherchez d’abord le royaume des cieux<br>Ainsi que Sa justice<br>Et toutes choses vous seront<br>Données en plus<br>Alléluia! Alléluia!"},
+      {"num":2, "text": "L’homme ne vivra pas de pain seulement<br>Mais de toute Parole<br>Qui sortira de la bouche de Dieu<br>Alléluia! Alléluia!"},
+      {"num":3, "text": "Demandez et il vous sera donné<br>Cherchez vous trouverez<br>Frappez à la porte et l’on vous ouvrira<br>Alléluia! Alléluia!"},
+      {"num":4, "text": "Christ est vivant Il est sorti du tombeau<br>Alléluia! Alléluia!<br>Christ est vivant<br>C’est l’éclat d’un jour nouveau<br>Alléluia! Alléluia!"},
+      {"num":5, "text": "Alléluia ! Alléluia ! Alléluia! (2x)"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 41,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CITE PERDUE",
+    "choir": "Cité perdue par Adam l’Eden<br>Nous y serons très bientôt<br>Dieu est fidèle et accomplit<br>Tout ce qu’Il avait promis.",
+    "verses": [
+      {"num":1, "text": "Qu’est ce que tu regardes là-haut mon frère<br>Le Fils de l’homme est déjà venu<br>Les tonnerres qui grondent c’est la trompette<br>Qui a sonné pour tous les élus.<br><br>Et nous marchons tous vers l’horizon<br>Où dans les champs l’Epoux nous attend<br>Et sous la conduite d’Eliezer<br>Nous montons vers les cieux."},
+      {"num":2, "text": "Dans le trajet qui nous conduit à Dieu<br>La route est étroite et pleine d’embûches<br>Nous nous nourrissons de la manne cachée<br>C’est la Parole pleine de vie.<br><br>Mais cette route est peu empruntée<br>Parce qu’on y mange la chair de Jésus<br>Mais pour nous enfants de la promesse<br>C’est le chemin de l’Eden."},
+      {"num":3, "text": "Comme Isaac attendait Rébecca<br>Jésus-Christ notre Epoux nous attend<br>Nous marchons sur le chameau d’Eliezer<br>Sous le regard des gens de ce monde.<br><br>C’est le grand jour et l’heure du Seigneur<br>Moment glorieux où tout s’accomplit<br>L’Epouse parée tressaille de joie<br>Alléluia! Alléluia!"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 42,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "COMBIEN IL EST BON",
+    "choir": "Combien Il est bon ! (3x)<br>Mon Seigneur mon Dieu<br>Combien Il est bon ! Alléluia<br>Oui je Le louerai toujours.",
+    "verses": [
+      {"num":1, "text": "Ecoute, ô ciel et tout ce que tu as<br>Combien Jésus-Christ est riche en bonté<br>Et toi terre des hommes et bétails des champs<br>Oh ! Louez-Le car Il est bon."},
+      {"num":2, "text": "Il nous a créés pour la vie éternelle<br>Mais nous avons péché et avons tout perdu<br>Mais dans Sa bonté, Il se décida<br>De nous ramener à la vie."},
+      {"num":3, "text": "Et comme un Agneau, Il vint ici-bas<br>Et versa Son Sang pour nous racheter<br>Depuis ce jour-là, nous pouvons crier:<br>O mort, où est ton aiguillon ?"},
+      {"num":4, "text": "Pareil à un aigle, Il rode sur nous<br>Il voit nos besoins, nul n’est en danger<br>Et à chaque tour, Il jette ce cri:<br>Ne craignez rien car Je suis là."},
+      {"num":5, "text": "Et comme une poule entoure ses poussins<br>Jésus nous entoure et prend soin de nous<br>D’où viendra l’orage qu’Il ne saura calmer?<br>Oui, nous sommes plus qu’en sécurité."},
+      {"num":6, "text": "Je loue et j’adore mon Seigneur Jésus<br>Pour tout ce qu’Il ne cesse de faire pour moi<br>O je ne puis compter Ses nombreux bienfaits<br>O combien je veux L’adorer."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 43,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "COMMENT NE POURRAIS-JE TE LOUER",
+    "choir": "Comment ne pourrais-je Te louer<br>Pour tout  ce que Tu as fait pour moi<br>Tu as toujours été mon secours<br>Chaque fois que l’ennemi me combat.",
+    "verses": [
+      {"num":1, "text": "J’étais éloigné de Ta Parole<br>Tu m’as envoyé Ton saint prophète<br>J’étais sans aucune consolation<br>Tu m’as rempli de Ton Saint-Esprit."},
+      {"num":2, "text": "J’étais terrassé par la maladie<br>Tu as combattu et Tu m’as guéri<br>Quand les gens parlaient en mal de moi<br>J’ai trouvé en Toi mon seul Ami."},
+      {"num":3, "text": "J’étais près à tomber en enfer<br>Tu m’as montré le chemin du ciel<br>Je ne connaissais pas le plan du salut<br>Tu m’as révélé des grands mystères."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 44,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "COMMENT VOULEZ-VOUS",
+    "choir": "Oh! Que Ton règne vienne<br>Oh! Roi de Salem<br>Viens et mets fin à ces ennuis<br>Viens, oh! Roi de Paix.",
+    "verses": [
+      {"num":1, "text": "Comment voulez-vous<br>Que l’on avance encore<br>Avec toute cette misère<br>Qui ne fait que s’empirer<br>Oh ! Viens règne sur nous."},
+      {"num":2, "text": "Comment voulez-vous<br>Que l’on avance encore<br>Avec toute cette souffrance<br>Qui ne fait que s’empirer<br>Oh! Viens règne sur nous."},
+      {"num":3, "text": "Comment voulez-vous<br>Que l’on avance encore<br>Avec cette injustice<br>Qui ne fait que s’empirer<br>Oh! Viens règne sur nous."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 45,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CONDUIS-MOI SEIGNEUR",
+    "choir": "Chaque jour, chaque nuit,<br>Par la force du Saint-Esprit,<br>Conduis-moi<br>Oh, Jésus, conduis-moi !",
+    "verses": [
+      {"num":1, "text": "(Conduis-moi, Seigneur<br>Oh, Jésus, conduis-moi) (2x)"},
+      {"num":2, "text": "(Guide-moi, Seigneur,<br>Oh, Jésus, guide-moi) (2x)"},
+      {"num":3, "text": "(Parle-moi, Seigneur,<br>Oh, Jésus, parle-moi) (2x)"},
+      {"num":4, "text": "(Remplis-moi, Seigneur,<br>Oh, Jésus, remplis-moi) (2x)"},
+      {"num":5, "text": "(Guide-moi, Seigneur,<br>Oh, Jésus, guide-moi) (2x)"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 46,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CONNAIS-TU CETTE CITE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Connais-tu cette cité<br>La cité céleste<br>Dans ses murs tout est clarté<br>Plus d’ombre funeste<br><br>Pèlerins et voyageurs<br>Ici bas dans les douleurs<br>Toujours ce trésor nous reste<br>La cité céleste."},
+      {"num":2, "text": "Connais-tu cette cité<br>La cité bénie<br>Où tout est félicité<br>Sublime harmonie<br><br>L’Agneau seul est son soleil<br>Et son éclat sans pareil<br>Illumine et vivifie<br>La cité bénie"},
+      {"num":3, "text": "D’or de perles et d’Azur<br>Est notre patrie<br>Connais tu ce fleuve pur<br>L’arbre de la vie<br><br>Plus de fardeau à jamais<br>Pour les élus tout est paix<br>De Dieu la cité chérie<br>C’est notre patrie."},
+      {"num":4, "text": "Ô Salem repos si doux<br>Mon cœur te désire<br>Après son Chef son Epoux<br>L’Eglise soupire<br><br>Être toujours devant Toi<br>Mon Seigneur mon Divin Roi<br>Pour Te chanter et Te dire<br>Mon cœur Te désire."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 47,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CONTINUONS",
+    "choir": "Oh, continuons, continuons<br>A parler du bon vieux chemin<br>Continuons, continuons<br>A parler du Seigneur.",
+    "verses": [
+      {"num":1, "text": "Nous nous sentons si bien<br>En parlant du bon vieux chemin<br>Nous nous sentons si bien<br>En parlant du Seigneur."},
+      {"num":2, "text": "Le diable n’aime pas cela<br>A parler du bon vieux chemin<br>Le diable n’aime pas cela<br>A parler du Seigneur."},
+      {"num":3, "text": "Le diable est irrité<br>Le combat il veut remporter<br>Le diable est irrité<br>Mais s’il est sous nos pieds."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 48,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CROIS SEULEMENT",
+    "choir": "Crois seulement (2x)<br>Tout est  possible<br>Crois seulement (bis)<br><br>Seigneur je crois…<br>Dieu je reçois…<br>Jésus est là…",
+    "verses": [
+      {"num":1, "text": "Crains point, petit troupeau<br>De la Croix au Trône de la  mort à la vie<br>Il cherchait les Siens<br>Tout pouvoir sur terre<br>Tout pouvoir au ciel Lui est donné<br>Pour Son troupeau bien-aimé."},
+      {"num":2, "text": "Crains point petit troupeau, Il t’a précédé<br>Ton Berger a choisi le sentier à suivre<br>Pour toi, Il rendra pure l’eau de Mara<br>Il but toute l’amertume à Gethsémané."},
+      {"num":3, "text": "Crains point petit troupeau<br>Peu importe ton sort<br>Il entre dans les chambres aux portes fermées<br>Il n’abandonne point, Il n’est point absent<br>Ainsi compte sur Sa présence le jour, la  nuit."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 49,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CREE EN MOI UN CŒUR PUR",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Crée en moi un cœur pur, O Seigneur<br>Et déverse Ton Esprit dans mon cœur<br>Ne m’éloigne pas de Ta présence, Seigneur<br>Ne me retire pas Ton Saint-Esprit<br>Restaure en mon âme la joie de Ton Salut<br>Et déverse Ton Esprit dans mon cœur."}
+    ],
+    "otherInfos": "50"
+  },
+
+  {
+    "id": 50,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "CREATE IN ME A CLEAN HEAR",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Create in me a clean heart, O God<br>And renew a right Spirit within me<br>Cast me not away from Thy presence O Lord<br>And take not Thy Holy Spirit from me<br>Restore unto me<br>The joy of Thy Salvation<br>And renew a right Spirit within me."}
+    ],
+    "otherInfos": "49"
+  },
+
+  {
+    "id": 51,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CROIS SEULEMENT",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Crois seulement (2x)<br>Tout est possible<br>Crois seulement."},
+      {"num":2, "text": "Jésus est là (2x)<br>Tout est possible<br>Jésus est là."},
+      {"num":3, "text": "Seigneur, je crois (2x)<br>Tout est possible<br>Seigneur, je crois."}
+    ],
+    "otherInfos": "52"
+  },
+
+  {
+    "id": 52,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "ONLY BELIEVE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Only believe(2x)<br>All things are possible<br>Only believe."},
+      {"num":2, "text": "Jesus is there (2x)<br>All things are possible<br>Jesus is there."},
+      {"num":3, "text": "Lord, I believe (2x)<br>All things are possible<br>Lord, I believe."}
+    ],
+    "otherInfos": "51"
+  },
+
+  {
+    "id": 53,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "CRUCIFIE",
+    "choir": "Crucifié, seul abandonné<br>Tu as souffert, méprisé, rejeté<br>Telle une rose, foulée par nos pieds<br>Tu m’as sauvé, Tu m’as aimé<br>Par-dessus tout.",
+    "verses": [
+      {"num":1, "text": "Au-dessus des puissances<br>Au-dessus des rois<br>Au-dessus de la nature<br>Et de la création<br>Au-dessus de tous les plans des hommes sages<br>Bien avant le monde Tu existais."},
+      {"num":2, "text": "Au-dessus des royaumes<br>Au-dessus des trônes<br>Au-dessus des merveilles<br>Que ce monde a connues<br>Par-dessus tous les trésors de la terre<br>Rien ne peut mesurer Ta valeur."}
+    ],
+    "otherInfos": "54"
+  },
+
+  {
+    "id": 54,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "",
+    "choir": "Crucified<br>Lead behind the stone<br>You live to die<br>Rejected and alone<br>Like a rose trampled on the ground<br>You took the fall<br>And thought of me<br>Above all",
+    "verses": [
+      {"num":1, "text": "Above all powers<br>Above all kings<br>Above all nature<br>And all created things<br>Above all wisdom<br>And all the ways of men<br>You were here before the world began."},
+      {"num":2, "text": "Above all kingdoms<br>Above all thrones<br>Above all wonders<br>The world has ever known<br>Above all wealth, and treasures<br>Of the earth<br>There’s no way to measure<br>What you worth."}
+    ],
+    "otherInfos": "53"
+  },
+
+  {
+    "id": 55,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "DANS CE MONDE PERVERS",
+    "choir": "Jésus m’aime<br>Il m’aime, Il m’aime<br>Il est mort pour moi.",
+    "verses": [
+      {"num":1, "text": "Dans ce monde pervers et agité<br>Seigneur Tu m’as cherché<br>Tu m’as cherché et m’as trouvé<br>O Ton Amour et grand pour moi."},
+      {"num":2, "text": "Quelles que soient la souffrance, les moqueries<br>Je n’ai rien à gagner ici-bas<br>Jésus m’aime cela me suffit<br>Il m’aime, Il est mort pour moi."},
+      {"num":3, "text": "La couronne d’épines Tu l’as portée<br>O Toi, le Roi des rois<br>La couronne de honte Tu l’as portée<br>Pour venir mourir pour moi."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 56,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "DANS CETTE CITE",
+    "choir": "Dans cette cité où l’Agneau est la Lumière<br>Cette cité où il n’y a point de nuit<br>J’ai un beau palais là-haut<br>Et libéré des soucis<br>Je m’en irai où l’Agneau est la Lumière.",
+    "verses": [
+      {"num":1, "text": "Il y a un pays au delà des étoiles<br>Il y a une cité où il n’y a point de nuit<br>Si nous sommes fidèles nous irons là bientôt<br>A  la cité où l’Agneau est la Lumière."},
+      {"num":2, "text": "Ici nous sommes éclairés mais nous savons<br>Que ce soleil qui luit sur nous maintenant<br>Se changera en nuage quand nous irons<br>A la cité où l’Agneau est la Lumière."},
+      {"num":3, "text": "Là il y a des fleurs  à jamais et le jour<br>Sera un jour éternel et pas de nuits<br>Nos larmes seront essuyées à jamais<br>A la cité où l’Agneau est la Lumière."},
+      {"num":4, "text": "Ici nous avons toujours des déceptions<br>Et nos espoirs rencontrent l’opposition<br>Ici nous pleurons là-bas sera la joie<br>A la cité où l’Agneau est la Lumière."},
+      {"num":5, "text": "Que le soleil faiblisse ou qu’il y ait la nuit<br>Mon cœur bien heureux<br>n’a peur d’aucun ombrage<br>Car je sais que là au ciel j’ai une maison<br>A la cité où l’Agneau est la lumière."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 57,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "DANS DES VERTS PATURAGES",
+    "choir": "Certains par les eaux ou par les vagues<br>D’autres par le feu mais tous par le sang<br>D’autres par les peines<br>Mais Dieu donne un chant<br>Pendant la nuit et tout au long du jour.",
+    "verses": [
+      {"num":1, "text": "Dans des verts pâturages si doux et si riches<br>Dieu conduit Ses très chers enfants<br>Là où coule l’eau qui ravive les fatigués<br>Dieu conduit Ses très chers enfants."},
+      {"num":2, "text": "Quelques fois sur le mont où brille le soleil<br>Dieu conduit Ses très chers enfants<br>Quelques fois dans la vallée pendant la nuit<br>Dieu conduit Ses très chers enfants."},
+      {"num":3, "text": "Qu’il nous arrive des peines<br>Que Satan s’oppose<br>Dieu conduit Ses très chers enfants<br>Par la grâce nous pouvons vaincre l’ennemi<br>Dieu conduit Ses très chers enfants."},
+      {"num":4, "text": "Loin de la boue ô, oui très loin de cela<br>Dieu conduit Ses très chers enfants<br>La plus haut dans la Gloire jour d’éternité<brDieu conduit Ses très chers enfants.>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 58,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "DANS LA BOUE DU PECHE",
+    "choir": "Le Seigneur m’aime (2x)<br>Je chanterai toujours Son Amour<br>Le Seigneur m’aime (2x)<br>Je chanterai toujours Son Amour.",
+    "verses": [
+      {"num":1, "text": "Dans la boue du péché j’ai pataugé<br>Oh!  Sans espoir j’étais perdu<br>Et l’Amour du Seigneur<br>A pourvu un Sauveur<br>Qui versa Son Sang pour nous racheter."},
+      {"num":2, "text": "Sa Main toute Puissante<br>M’a secouru et m’a gardé<br>Loin de tout danger<br>Prédestiné à voir ce jour Glorieux<br>Où Christ Dieu vivant Est dans Son Epouse."},
+      {"num":3, "text": "Dans la confusion l’Eglise est plongée<br>Et l’obscurité remplit tous les cœurs<br>Il a fait briller la lumière du soir<br>Et m’appela pour la contempler."},
+      {"num":4, "text": "Oh, oui je suis sans force<br>Mais Lui le Grand Vainqueur<br>Est descendu pour me fortifier<br>Mettant les pieds sur terre et sur mer<br>Oh! Oui, pour moi Satan est vaincu."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 59,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "DANS MON CŒUR CHANTE",
+    "choir": "Jésus, Jésus, Jésus<br>Le Nom le plus doux<br>Il comble mes désirs<br>Me fait chanter en chemin.",
+    "verses": [
+      {"num":1, "text": "Dans mon cœur chante une mélodie<br>Jésus y murmure doucement<br>Ne crains point car je suis avec toi<br>Dans les épreuves de ta vie."},
+      {"num":2, "text": "Ma vie était ruinée par le mal<br>J’étais en proie aux douleurs<br>Jésus est venu me délier<br>M’a donné une parfaite paix."},
+      {"num":3, "text": "Je me réjouis dans Sa riche grâce<br>Et me repose sous Son Aile<br>Mes yeux fixés sur Son Beau Visage<br>C’est la raison de ma joie."},
+      {"num":4, "text": "Il revient bientôt pour m’accueillir<br>Pour m’amener là au ciel<br>Je m’envolerai dans les hauteurs<br>Je régnerai avec Lui."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 60,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "DANS PEU DE TEMPS",
+    "choir": "Dans peu de temps le matin viendra<br>Quand tous les saints de Dieu<br>Seront rassemblés nous allons raconter<br>Comment nous vainquions<br>Car nous le comprendrons<br>Mieux dans peu de temps.",
+    "verses": [
+      {"num":1, "text": "Nous sommes souvent projetés<br>Sur la mer agitée du temps<br>Les nuages sombres<br>Succèdent à  l’éclairante lumière<br>Dans ce pays du jour parfait<br>Quand les brumes sont enlevées<br>Oui, nous le comprendrons mieux<br>Dans peu de temps."},
+      {"num":2, "text": "Nous sommes souvent dépourvus<br>Des choses que cette vie demande<br>Malades, assoiffés et affamés<br>Nous cherchons un abri<br>Nous nous confions au Seigneur<br>Conformément à Sa Parole<br>Oui, nous le comprendrons bien<br>Dans peu de temps."},
+      {"num":3, "text": "Nous avons partout des épreuves<br>Et nous ne comprenons pas<br>La manière dont notre<br>Dieu nous conduit vers la terre promise<br>Son œil veille sur nous<br>Et nous Le suivrons jusqu’à la mort<br>Car nous le comprendrons mieux<br>Dans peu de temps."},
+      {"num":4, "text": "Et souvent nous sommes pris<br>Au dépourvu par les tentations<br>Nos cœurs sont amenés à saigner<br>A cause des paroles vaines<br>Et pourquoi sommes-nous<br>Eprouvés quand nous voulons<br>Faire le bien<br>Mais nous le comprendrons<br>Mieux dans peu de temps."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 61,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "DE NUIT COMME DE JOUR",
+    "choir": "Entre dans mon cœur<br>Pour rejeter tous mes péchés<br>Des tentations fais-moi triompher<br>Dans Ta lumière fais-moi marcher.",
+    "verses": [
+      {"num":1, "text": "De nuit comme de jour sois à mes côtés<br>Dans ce monde perverti je demeure<br>C’est Toi Seigneur qui sais me guider<br>Fais-moi triompher de tout mal."},
+      {"num":2, "text": "C’est Toi Seigneur qui conduis tous mes pas<br>Même dans la souffrance<br>Tu ne m’oublies pas<br>Tu es toujours le Dieu suprême<br>Qui prend soin de tous mes soucis."},
+      {"num":3, "text": "De nuit comme de jour Seigneur Tu veilles<br>A ma vie pour la transformer<br>C’est Toi qui combats pour moi<br>Oh ! Seigneur<br>Tu n’abandonnes pas les Tiens."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 62,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 1,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "<br><br><br><br>"}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 50,
+    "language": "FRANCAIS",
     "author": "",
     "title": "PRENDS LE NOM DE JESUS",
     "choir": "Précieux Nom, Nom si doux<br>Espoir de la terre, joie du ciel<br>Précieux Nom, Nom si doux<br>Espoir de la terre, joie du ciel",
@@ -28,8 +3173,8 @@
   },
 
   {
-    "id": 3,
-    "language": "French",
+    "id": 51,
+    "language": "FRANCAIS",
     "author": "",
     "title": "OH! PRENDS MON AME",
     "choir": "Source de vie, de Paix d’Amour<br>Vers Toi je crie la nuit, le jour<br>Entends ma plainte, Sois mon soutien<br>Calme ma crainte, Sois mon seul bien.",
@@ -43,7 +3188,7 @@
 
   {
     "id": 4,
-    "language": "French",
+    "language": "FRANCAIS",
     "author": "",
     "title": "OH ! PETIT AIGLON",
     "choir": "Oh, petit aiglon<br>Ta vie n’est pas ici-bas<br>Monte la montagne des tonnerres<br>C’est  là-haut tu trouveras la vie.",
