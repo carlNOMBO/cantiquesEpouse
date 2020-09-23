@@ -1,4 +1,5 @@
 import { Component, OnInit, Output, EventEmitter } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-header',
@@ -13,15 +14,22 @@ export class HeaderComponent implements OnInit {
 
   title = "Cantiques de l'Epouse";
   imgPathTrumpet: any = './assets/img/trumpet1.png';
-  languages = ['Français'];
+  languages = ['Tous','Français','English','Lingala','Italiano'];
 
-  constructor() { }
+  constructor(private router: Router) { }
 
   ngOnInit() {
     this.searchValue = '';
   }
 
   onChange(value: string) {
+    this.searchValueChange.emit(value);
+  }
+
+  onSearch(value: string) {
+    this.searchValue = value;
+    //this.searchValueChange.emit(value);
+    //if (value) {this.router.navigate(['/songs']); }
     this.searchValueChange.emit(value);
   }
 

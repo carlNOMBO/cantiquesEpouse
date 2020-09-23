@@ -8,13 +8,14 @@
 
     <div class="row row-cols-3 d-flex justify-content-around">
       <div class="col-11 col-sm-7 col-md-6 col-lg-5 col-xl-5">
-        <div>
+        <div class="mb-4">
           <h4>{{song.title}}</h4>
         </div>
 
         <div *ngFor="let verse of song.verses">
           <p [innerHTML]="verse.text"><P>
-          <p [innerHTML]="song.choir"><p>
+          <b> <p *ngIf="song.choir">Choir :<p>
+          <p [innerHTML]="song?.choir"><p></b>
         </div>
       </div>
     </div>

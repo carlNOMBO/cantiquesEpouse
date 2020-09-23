@@ -37,7 +37,7 @@ export class SongsService {
     const songs: Song[] = new Array();
 
     this.songs.forEach( (song) => {
-      if (song.title.toLowerCase().includes(text.toLowerCase()) || song.choir.toLowerCase().includes(text.toLowerCase())) {
+      if (song.title.toLowerCase().includes(text.trim().toLowerCase()) || song.choir.toLowerCase().includes(text.trim().toLowerCase())) {
         songs.push(song);
       }
     });

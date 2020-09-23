@@ -179,11 +179,11 @@
     "language": "FRANCAIS",
     "author": "",
     "title": "BIENTÔT DANS LA DOUCEUR",
-    "choir": "Bientôt dans la douceur<b>Nous nous rencontrerons sur cette rive<b>Bientôt dans la douceur<b>Nous nous rencontrerons sur cette rive.",
+    "choir": "Bientôt dans la douceur<br>Nous nous rencontrerons sur cette rive<br>Bientôt dans la douceur<br>Nous nous rencontrerons sur cette rive.",
     "verses": [
-      {"num":1, "text": "Il y a un endroit plus beau qu’un jour<b>Et par la foi nous pouvons le voir<b>Car le Père nous attend sur le chemin<b>Pour nous préparer là un palais."},
-      {"num":2, "text": "Nous chanterons sur ce beau rivage<b>Chants mélodieux de bénédiction<b>Nos esprits ne s’affligeront plus<b>Pas un soupir pour les bénédictions."},
-      {"num":3, "text": "A notre généreux Père Céleste<b>Nous offrirons nos hommages louanges<b>Pour le Glorieux don de Son Amour<b>Et les bénédictions consacrées."}
+      {"num":1, "text": "Il y a un endroit plus beau qu’un jour<br>Et par la foi nous pouvons le voir<br>Car le Père nous attend sur le chemin<br>Pour nous préparer là un palais."},
+      {"num":2, "text": "Nous chanterons sur ce beau rivage<br>Chants mélodieux de bénédiction<br>Nos esprits ne s’affligeront plus<br>Pas un soupir pour les bénédictions."},
+      {"num":3, "text": "A notre généreux Père Céleste<br>Nous offrirons nos hommages louanges<br>Pour le Glorieux don de Son Amour<br>Et les bénédictions consacrées."}
     ],
     "otherInfos": ""
   },
@@ -193,13 +193,13 @@
     "language": "LARI",
     "author": "",
     "title": "BIZUTU BIABIO",
-    "choir": "Imvulusu wena ye nduenga<b>Mu dedisa mambu mamo<b>Kadi Yesu ulenda sala<b>Monso mena mampasi kwa nge.",
+    "choir": "Imvulusu wena ye nduenga<br>Mu dedisa mambu mamo<br>Kadi Yesu ulenda sala<br>Monso mena mampasi kwa nge.",
     "verses": [
-      {"num":1, "text": "Bizitu biabio tuna tuala<b>Kwa Yesu unatanga bio<b>Zingolo zazo zena yandi<b>Mu yandi tusiamuswanga."},
-      {"num":2, "text": "Mu Mvulusi mwena mamonso<b>Mu bomba ye vundisa nge<b>Vo kiadi kikotanga ntima<b>Kwa yandi unkamba kiakio."},
-      {"num":3, "text": "Vo vongele nitu mu salu<b>Ulenda kusiamisanga<b>Uzeyi mamo mauvengi<b>Uwanga tusambula mpe."},
-      {"num":4, "text": "Wakangua mu mfu bia masumu<b>Wulenda kunkutulabio<b>Mu Mvulusi mwena kimpuaza<b>Ye ndungunu muna mamo."},
-      {"num":5, "text": "Wuyukutisanga mintima<b>Milembane nza fuluza<b>Mu mpeve kabiekanga mwela<b>Voyekole ntima wawo."}
+      {"num":1, "text": "Bizitu biabio tuna tuala<b>Kwa Yesu unatanga bio<br>Zingolo zazo zena yandi<br>Mu yandi tusiamuswanga."},
+      {"num":2, "text": "Mu Mvulusi mwena mamonso<b>Mu bomba ye vundisa nge<br>Vo kiadi kikotanga ntima<br>Kwa yandi unkamba kiakio."},
+      {"num":3, "text": "Vo vongele nitu mu salu<b>Ulenda kusiamisanga<br>Uzeyi mamo mauvengi<br>Uwanga tusambula mpe."},
+      {"num":4, "text": "Wakangua mu mfu bia masumu<b>Wulenda kunkutulabio<br>Mu Mvulusi mwena kimpuaza<br>Ye ndungunu muna mamo."},
+      {"num":5, "text": "Wuyukutisanga mintima<b>Milembane nza fuluza<br>Mu mpeve kabiekanga mwela<br>Voyekole ntima wawo."}
     ],
     "otherInfos": ""
   },
@@ -209,12 +209,12 @@
     "language": "FRANCAIS",
     "author": "",
     "title": "BON SAUVEUR BERGER FIDELE",
-    "choir": "Béni sois-Tu tendre Maître<b>Jésus nous sommes à Toi<b>A Toi seul nous voulons être<b>Béni sois-Tu notre Roi.",
+    "choir": "Béni sois-Tu tendre Maître<br>Jésus nous sommes à Toi<br>A Toi seul nous voulons être<br>Béni sois-Tu notre Roi.",
     "verses": [
-      {"num":1, "text": "Bon Sauveur Berger Fidèle<b>Conduis-nous par Ton Amour<b>Et de Ta main paternelle<b>Nourris-nous au jour le jour."},
-      {"num":2, "text": "Dans Tes riches pâturages<b>Apprends- nous à Te chercher<b>Que sous Tes divins ombrages<b>Nous sachions toujours marcher."},
-      {"num":3, "text": "Toi qui nous reçu par grâce<b>Bien que faibles et pécheurs<b>Par Ta puissance efficace<b>Purifie encore nos cœurs."},
-      {"num":4, "text": "Enfants nous Te plaire<b>T’obéir garder Ta Loi<b>Oh pour cela daigne faire<b>Que nous vivions par Ta foi."}
+      {"num":1, "text": "Bon Sauveur Berger Fidèle<br>Conduis-nous par Ton Amour<br>Et de Ta main paternelle<br>Nourris-nous au jour le jour."},
+      {"num":2, "text": "Dans Tes riches pâturages<br>Apprends- nous à Te chercher<br>Que sous Tes divins ombrages<br>Nous sachions toujours marcher."},
+      {"num":3, "text": "Toi qui nous reçu par grâce<br>Bien que faibles et pécheurs<br>Par Ta puissance efficace<br>Purifie encore nos cœurs."},
+      {"num":4, "text": "Enfants nous Te plaire<br>T’obéir garder Ta Loi<br>Oh pour cela daigne faire<br>Que nous vivions par Ta foi."}
     ],
     "otherInfos": ""
   },
@@ -846,124 +846,116 @@
     "id": 62,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "DEBOUT SUR LES PROMESSES",
+    "choir": "Débout, débout<br>Débout sur les promesses de Dieu<br>Mon Sauveur<br>Débout, débout<br>Je me tiens sur les promesses de Dieu.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Débout sur les promesses de Christ mon Roi<br>Qu’à travers les âges Ses louanges soient<br>Gloire dans les lieux très hauts Je chanterai<br>Débout sur les promesses de Dieu."},
+      {"num":2, "text": "Débout sur les promesses infaillibles<br>Quand les vents de doute<br>Et de peur assaillent<br>Par la Parole de Dieu Vivant je vaincrai<br>Débout sur les promesses de Dieu."},
+      {"num":3, "text": "Débout sur les promesses moi je peux voir<br>Dans le sang la purification pour moi<br>Débout dans la liberté qui vient de Christ<br>Débout sur les promesses de Dieu."},
+      {"num":4, "text": "Débout sur les promesses Je ne peux tomber<br>Toujours écoutant la voix du Saint-Esprit<br>Reposé dans mon Sauveur mon Tout en tout<br>Débout sur les promesses de Dieu."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 63,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "DESCENDS DOUX CHARIOT",
+    "choir": "Descends, doux chariot<br>Venant m’amener à la maison<br>Descends, doux chariot<br>Venant m’amener à la maison",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Je regarde au loin au delà du Jourdain<br>Venant m’amener à la maison<br>Une cohorte d’anges qui vient après moi<br>Venant m’amener à la maison."},
+      {"num":2, "text": "Si tu entres là-bas avant mon arrivé<br>Venant m’amener à la maison<br>Dis à tous mes amis que je viendrai aussi<br>Venant m’amener à la maison."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 64,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "DIEU A POURVU UN AGNEAU",
+    "choir": "Aie pitié de moi, Jésus Fils de Dieu<br>Enlève de mon cœur toute incrédulité<br>Aie pitié de moi, Jésus Fils de Dieu<br>Enlève de mon cœur toute incrédulité.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Dieu a pourvu un Agneau<br>Pour enlever mon péché<br>Quand moi j’étais dans le monde<br>Jésus-Christ est mort pour moi"},
+      {"num":2, "text": "J’étais comme Bartimée<br>Un aveugle dans ce monde<br>Vivant selon les crédos<br>De ces hommes égarés."},
+      {"num":3, "text": "J’étais comme un aveugle<br>Dans les dénominations<br>Vivant selon les crédos<br>De ces hommes égarés."},
+      {"num":4, "text": "Et la lumière apparut<br>Au temps du soir mes amis<br>Le Seigneur m’ouvrit  les yeux<br>Et maintenant je peux voir."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 65,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "DIEU EST SI BON",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Dieu est si bon (3x)<br>Est si bon pour moi."},
+      {"num":2, "text": "Il a sauvé mon âme,<br>libéré mon esprit,<br>Guéri mon cœur brisé,<br>Dieu est si bon pour moi."},
+      {"num":3, "text": "(Je l’aime tant) 3x<br>Il est si bon pour moi."}
     ],
-    "otherInfos": ""
+    "otherInfos": "66,67"
   },
 
   {
-    "id": 1,
+    "id": 66,
+    "language": "LINGALA",
+    "author": "",
+    "title": "NZAMBE MALAMU",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Nzambé malamu (3x)<br>Malamu mpo na nga"},
+      {"num":2, "text": "Ngai na lingi ye (3x)<br>Malamu mpo na nga"}
+    ],
+    "otherInfos": "65,67"
+  },
+
+  {
+    "id": 67,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "GOD IS GOOD",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "God is so good (3x)<br>Is so good to me"},
+      {"num":2, "text": "I love him so (3x)<br>He’s so good to me"}
+    ],
+    "otherInfos": "65,66"
+  },
+
+  {
+    "id": 68,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "DIEU N’EST PAS MORT",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Dieu n’est pas mort, Il est vivant (3x)<br>Je Le sens dans mes mains<br>Je Le sens dans mes pieds<br>Je Le sens dans mon cœur<br>Je Le sens tout autour de moi."},
+      {"num":2, "text": "Dieu n’est pas mort, Il est vivant (3x)<br>Je Le vois dans mon frère<br>Je Le vois dans ma sœur<br>Je Le vois dans l’Eglise<br>Je Le vois tout autour de moi."},
+      {"num":3, "text": "Je ne suis plus mort, je suis vivant (3x)<br>Car jésus vit en moi<br>Son amour est en moi<br>Sa Puissance est en moi<br>Se répand tout autour de moi."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 69,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "DIEU SOIT AVEC VOUS",
+    "choir": "Au revoir , au revoir<br>Au revoir au pied de Jésus<br>Au revoir , au revoir<br>Dieu soit avec vous jusqu'au revoir.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Dieu  soit avec vous jusqu’au revoir<br>Par ses conseils vous soutenant<br>Dans Sa bergerie vous gardant<br>Dieu soit avec vous Jusqu'au  revoir."},
+      {"num":2, "text": "Dieu soit avec vous jusqu’au revoir<br>Vous protégeant sous Ses Ailes<br>Vous donnant la manne quotidienne<br>Dieu soit avec vous jusqu'au  revoir."},
+      {"num":3, "text": "Dieu soit avec vous jusqu’au revoir<br>Quand les périls vous confondent<br>Tenez Ses bras infaillibles<br>Dieu soit avec vous jusqu'au revoir."},
+      {"num":4, "text": "Dieu soit avec vous jusqu’au revoir<br>Flottant sur  vous Sa bannière<br>Eloignant de vous la crainte<br>Dieu soit avec vous jusqu'au  revoir."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
+    "id": 70,
     "language": "FRANCAIS",
     "author": "",
     "title": "",
@@ -975,7 +967,62 @@
   },
 
   {
-    "id": 1,
+    "id": 71,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "DIEU VOIT MA VIE",
+    "choir": "Heureux doux privilège<br>Ma vie est dans sa Main<br>Pourquoi m’inquiéterai-je<br>Encore du lendemain<br>A chaque Jour sa peine c’est Jésus qui l’a dit<br>La chose est bien certaine<br>Sa Grâce me suffit.",
+    "verses": [
+      {"num":1, "text": "Dieu voit ma vie entière<br>Il a son plan d’amour<br>Sur moi sur ma carrière<br>Il veille chaque jour<br>Je ne sais rien d’avance<br>Mais Il me conduira<br>En toute circonstance<br>Sa Grâce suffira."},
+      {"num":2, "text": "Voyez dit l’Evangile<br>L’oiseau, le lys des champs<br>Leur vie est bien fragile<br>Dieu y prends soin pourtant<br>Puisque la providence<br>Les garde et les nourris<br>J’ai pleine confiance<br>Sa Grâce me suffit."},
+      {"num":3, "text": "Je sais qu’au jour de joie<br>Comme au temps d’autrefois<br>Dieu veille sur la voie<br>De tous Ses bienaimés<br>La foi bannit la crainte<br>Et Dieu prit mon souci<br>Mon cœur n’a plus de crainte<br>Sa Grâce me suffit."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 72,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "DOUCEMENT ET TENDREMENT",
+    "choir": "Oh, viens à la maison !<br>Toi qui es si fatigué<br>viens à la maison<br>Sincèrement, tendrement,<br>Jésus appelle<br>Pécheur, viens à la maison.",
+    "verses": [
+      {"num":1, "text": "Doucement et tendrement, Jésus appelle<br>Appelle pour toi et pour moi<br>Il est aux portails<br>Il attend et veille<br>Veille pour toi et pour moi."},
+      {"num":2, "text": "Pourquoi retardez-vous quand Jésus appelle<br>Plaide pour toi et pour moi ?<br>Pourquoi traîner et ne pas saisir Sa grâce<br>Grâce pour toi et pour moi ?"},
+      {"num":3, "text": "Le temps est fugitif, les moments passent<br>Passent loin de toi et moi<br>Les ombres sont rassemblées<br>la mort s’approche<br>Approche pour toi et pour moi."},
+      {"num":4, "text": "Oh! Pour le merveilleux amour qu’Il a promis<br>Promis pour toi et pour moi<br>Bien que nous avons péché mais Il pardonne<br>Pardonne pour toi et pour moi."}
+    ],
+    "otherInfos": ""
+  },
+
+  {
+    "id": 73,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "DOUX SAINT-ESPRIT",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Doux Saint-Esprit<br>Douce colombe du ciel<br>Reste ici avec nous<br>Remplissant nos cœurs d’Amour<br>Pour Ta Parole."},
+      {"num":2, "text": "Nous offrons nos cœurs en prière<br>Sans doute dans nos cœurs<br>Nous attendant au réveil<br>En quittant cet endroit."}
+    ],
+    "otherInfos": "74"
+  },
+
+  {
+    "id": 74,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "SWEET HOLY SPIRIT",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Sweet Holy Spirit,<br>Sweet heavenly Dove,<br>Stay right here with us<br>Filling us with Your Love"},
+      {"num":2, "text": "And for these blessings<br>We lift our hearts in prayer<br>Without any doubt we’ll know<br>That we shall leave this place."}
+    ],
+    "otherInfos": "73"
+  },
+
+  {
+    "id": 75,
     "language": "FRANCAIS",
     "author": "",
     "title": "",
@@ -987,612 +1034,691 @@
   },
 
   {
-    "id": 1,
+    "id": 76,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "EL-SHADDAI",
+    "choir": "El-Shaddaï ! (2x)<br>El Elyon na Adonaï !<br>D’âge en âge Tu es le même<br>Par la puissance de Ton Nom<br>El-Shaddaï ! (2x)<br>El Kamka na Adonaï<br>Nous Te louons et T’élevons<br>El-Shaddaï",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Ton Amour et Ta bonté<br>Pour Abraham ont tout changé<br>La Puissance de Ta main<br>Dans la mer fit un chemin<br>A ceux qui T’ont méprisé<br>Tu accordas Tes bienfaits<br>Par Ta grandeur, Tu les as libérés"},
+      {"num":2, "text": "Les années l’ont bien montré<br>Christ est venu en Son temps<br>Parmi ces gens aveuglés<br>Que Tu as pourtant aimés<br>Ta Parole Ton divin plan<br>Pour eux n’était que du vent<br>Tu avais tout accompli<br>Par Ton Fils donnant Sa vie !"}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 77,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "EMMENE-MOI DANS LE SAINT",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Emmène-moi dans le Saint des saints<br>Emmène-moi dans le Sang de l’Agneau<br>Emmène-moi dans le Saint des saints<br>Que mon âme trouve en Toi le repos."},
+      {"num":2, "text": "Garde-moi dans le Saint des saints<br>Garde-moi dans le Sang de l’Agneau<br>Garde-moi dans le Saint des saints<br>Que mon âme trouve en Toi le repos."},
+      {"num":3, "text": "Conduis-moi dans le Saint des saints<br>Conduis-moi dans le Sang de l’Agneau<br>Conduis-moi dans le Saint des saints<br>Que mon âme trouve en Toi le repos."}
+    ],
+    "otherInfos": "78"
+  },
+
+  {
+    "id": 78,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "TAKE ME INTO HOLY OF HOLY",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Take me into the Holy of holies<br>Take me into the Blood of the Lamb<br>Take me into the Holy of holies<br>Take my life precious Lord Here I am."}
+    ],
+    "otherInfos": "77"
+  },
+
+  {
+    "id": 79,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "EN AVANT SOLDATS CHRETIENS",
+    "choir": "En avant, soldats chrétiens<br>Marchant comme à la guerre<br>Avec la croix de Jésus<br>Allant tous en avant.",
+    "verses": [
+      {"num":1, "text": "En avant, soldats chrétiens<br>Marchant comme à la guerre<br>Avec la croix de Jésus<br>Allons tous en avant<br>Christ le Maitre Royal<br>Mène contre l’ennemi<br>Tout droit dans la bataille<br>Regardez ses bannières."},
+      {"num":2, "text": "Comme une armée puissante<br>Débout l’Eglise de Dieu<br>Frères, nous somme en marche<br>Sur les traces des saints<br>Nous ne sommes pas divisés<br>Tous nous sommes  un seul corps<br>Un dans l’espoir et doctrine<br>Un  dans la charité."},
+      {"num":3, "text": "Couronnes et trônes périront<br>Les royaumes tomberont<br>Mais l’Eglise de Jésus<br>Demeurera constante<br>Même les portes de l’enfer<br>Ne prévaudront contre elle."},
+      {"num":4, "text": "Au signe du triomphe<br>L’ennemi tombera<br>Et alors soldats chrétiens<br>A nous la victoire<br>Les fondations de l’enfer<br>S’effondrent soudain<br>Ce sont nos louanges<br>Qui les ont fait s’écrouler."},
+      {"num":5, "text": "En avant, vous les peuples<br>Joignons notre heureuse foule<br>Mêlés vos voix au notre<br>Par les chants de triomphe<br>Gloire, puissance et honneur<br>A Christ le Roi des rois<br>Tous les hommes et les anges<br>Chanteront pour toujours."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 80,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "EN DE TELS MOMENT",
+    "choir": "Je t’aime, Seigneur (3x)<br>Comme je T’aime.",
+    "verses": [
+      {"num":1, "text": "En de tels moments je chante un chant d’amour<br>Chante un chant d’amour à Jésus<br>En de tels moments je chante un chant d’amour<br>Chante un chant d’Amour pour Lui."},
+      {"num":2, "text": "En de tels moments j’élève mes mains<br>J’élève mes mains à Jésus<br>En de tels moment j’élève mes mains<br>J’élève mes mains vers le Seigneur."},
+      {"num":3, "text": "En de tels moments j’ouvre mon cœur<br>J’ouvre mon cœur à Jésus<br>En de tels moments j’ouvre mon cœur<br>J’ouvre mon cœur au Seigneur."}
+    ],
+    "otherInfos": "81"
+  },
+
+  {
+    "id": 81,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "IN MOMENTS LIKE THESE",
+    "choir": "Singing: I love You Lord (3x)<br>I love You.",
+    "verses": [
+      {"num":1, "text": "In moments like these I sing a love song<br>Sing a love song unto Jesus <br>In moments like these I sing a love song<br>Sing a love song unto Him."},
+      {"num":2, "text": "In moments like these lift up my hands<br>Lift up my hands unto Jesus<br>In moments like these lift up my hands<br>Lift up my hands to the Lord."},
+      {"num":3, "text": "In moments like these I open my heart<br>Open my heart unto Jesus<br>In moments like these I open my heart<br>Open my heart to the Lord."}
+    ],
+    "otherInfos": "80"
+  },
+
+  {
+    "id": 82,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "ENVOIE LA PLUIE SEIGNEUR",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "(Envoie la pluie, Seigneur<br>Envoie la pluie, Seigneur<br>La pluie de la moisson). 2x"},
+      {"num":2, "text": "(Envoie la puissance, Seigneur<br>Envoie la puissance, Seigneur<br>Envoie la puissance sur nous). 2x"},
+      {"num":3, "text": "(Envoie la vie, Seigneur<br>Envoie la vie, Seigneur<br>Envoie la vie  en nous). 2x"},
+      {"num":4, "text": "(Envoie l’Amour, Seigneur<br>Envoie l’Amour, Seigneur<br>Envoie l’Amour en nous). 2x"},
+      {"num":5, "text": "(Etend ton aile, seigneur<br>Etend ton aile, seigneur <br>Etend ton aile, sur nous). 2x"}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
-    "language": "FRANCAIS",
+    "id": 83,
+    "language": "LINGALA",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "ESENGO BOLINGANI",
+    "choir": "Esengo bo lingani e e e<br>Esengo bo balani e e e<br>Kuna na Edena ebandaki boye<br>Ba sala Eva mpo na Adamu.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Oyo ya lelo bo Sali libala a a a <br>Kuna na lola kembo ezali<br>Biso lingomba to sepeli mingi i i i<br>Mokolo ya lelo esengo mingi i i i"},
+      {"num":2, "text": "Motema na yo o pesa ye yango o o o<br>Bolingo na ye nioso mpo na yo<br>Libala oyo ezali ya seko o o o<br>Elobi Yawhe na ebandeli."},
+      {"num":3, "text": "Pole na Nzambe kaka ekamba bino<br>Elikia na ye nioso pona ye<br>Na maye nioso matali libala a se bo yokani (2x)"},
+      {"num":4, "text": "Yo ndeko mwasi tosaka mobali<br>Ndeko mobali lingaka mwasi na yo o<br>Ba tango nioso ba bondeleka<br>Nzambe a ko pambola bino."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
-    "language": "FRANCAIS",
+    "id": 84,
+    "language": "LINGALA",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "ESENGO KO MONA NKOLO YESU",
+    "choir": "E boya banso lelo’yo<br>Tosanjola Yawe<br>Toyembela Ye na esengo monene<br>Alleluya!",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "O esengo ko mona Nkolo Yesu<br>Alleluya !<br>Toyembela ye na esengo monene<br>Alleluya !"},
+      {"num":2, "text": "N’ekulusu na zuaki lobiko<br>Alleluya !<br>Kuna Yesu akufelaki ngai<br>Alleluya !"},
+      {"num":3, "text": "Apesaki makila na bomoï<br>Alleluya !<br>Kobikisa biso banto ya masumu<br>Alleluya !"},
+      {"num":4, "text": "Na likolo bakoyembela Yawe<br>Alleluya !<br>Banje bakokumisa Njambe na bomoï<br>Alleluya !"},
+      {"num":5, "text": "O ba santo ba kokumisa Yawe<br>Alleluya !<br>Azuaki mikumba na bango yonso<br>Alleluya !"}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 85,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "ES-TU LAVE DANS LE SANG",
+    "choir": "Es-tu lavé dans le Sang de l’Agneau<br>Qui purifie les âmes ton habit est-il pur<br>Aussi blanc que la neige<br>Es-tu lavé dans la Sang de l’Agneau.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "As-tu rencontré Jésus qui purifie<br>Es-tu lavé dans le Sang de l’Agneau<br>As-tu pleinement confiance<br>En Sa grâce maintenant<br>Es-tu lavé dans le Sang de l’Agneau?"},
+      {"num":2, "text": "Marches-tu chaque jour à côté du Sauveur<br>Es-tu lavé dans le Sang de l’Agneau<br>Demeures-tu chaque jour dans le crucifié<br>Es-tu lavé dans le Sang de l’Agneau ?"},
+      {"num":3, "text": "Quand l’Epoux viendra<br>Ta robe sera-t-elle blanche ?<br>Pure et blanche dans le Sang de l’Agneau?<br>Ton âme va-t-elle s’apprêter<br>Pour le beau palais<br>Et sois lavé dans le Sang de l’Agneau."},
+      {"num":4, "text": "Débarrasse-toi de cet habit de péché<br>Sois lavé dans le Sang de l’Agneau<br>Il y a une fontaine qui coule<br>Pour l’âme impure<br>Oh ! Sois lavé dans le Sang de l’Agneau."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 86,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "GLOIRE A SON NOM",
+    "choir": "Gloire à Son Nom<br>Gloire à Son Nom<br>Là le Sang fut appliqué à mon cœur<br>Gloire à Son Nom.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Gloire à Son Nom.<br>J’ai crié pour être purifié<br>Là le Sang fut appliqué à mon cœur<br>Gloire à Son Nom !"},
+      {"num":2, "text": "Je suis incroyablement sauvé<br>Dans la douceur Jésus est en moi<br>Là à la croix où il m’a reçu<br>Gloire à Son Nom !"},
+      {"num":3, "text": "Fontaine qui sauve du péché<br>Je suis heureux d’y être plongé<br>Là Jésus me sauve, et me lave<br>Gloire à Son Nom."},
+      {"num":4, "text": "Viens à la Fontaine riche et douce<br>Jette ton âme aux pieds du Sauveur<br>Plonge t-y aujourd’hui et sois pur<br>Gloire à Son Nom !"}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 87,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "GLOIRE ET PUISSANCE",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Gloire et puissance, honneur à l’Agneau<br>Gloire à l’Agneau, gloire à l’Agneau<br>Gloire et puissance, honneur à l’Agneau"},
+      {"num":2, "text": "Car Il est notre Roi<br>Gloire, gloire ses élus L’acclament<br>Gloire, gloire, gloire à l’Agneau."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 88,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "GLOIRE GLOIRE ALLELUIA!",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Gloire, gloire alléluia!<br>Gloire,  gloire alléluia!<br>Gloire,  gloire alléluia!<br>Que tout soit pour Jésus."}
+    ],
+    "otherInfos": "89,90"
+  },
+
+  {
+    "id": 89,
+    "language": "LINGALA",
+    "author": "",
+    "title": "KEMBO KEMBO ALLELUYA",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Kembo, kembo alleluya!<br>Kembo, kembo alleluya!<br>Kembo, kembo alleluya!<br>Nionso pona Yesu."}
+    ],
+    "otherInfos": "88,90"
+  },
+
+  {
+    "id": 90,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "GLORY GLORY HALLELUJAH",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Glory, glory hallelujah!<br>Glory, glory hallelujah!<br>Glory, glory hallelujah!<br>All things be to the Lord."},
+      {"num":2, "text": "All things be to Jesus<br>All things be to the lamb."}
+    ],
+    "otherInfos": "88,89"
+  },
+
+  {
+    "id": 91,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "GLORIFIONS LE SEIGNEUR ENSEMBLE",
+    "choir": "(Hosanna, béni soit le Roc;<br>Béni soit le Rocher de mon salut.) (2x)",
+    "verses": [
+      {"num":1, "text": "Glorifions le Seigneur ensemble<br>Car Il est digne de louange<br>Glorifions le Seigneur ensemble<br>Car Il est digne de louange."},
+      {"num":2, "text": "Jéhovah Rapha est son nom<br>Car Il guérit mes maladies (2x)"},
+      {"num":3, "text": "Jéhovah Shalom est son nom<br>Car Il me donne sa paix (2x)"},
+      {"num":4, "text": "Jéhovah Nissi est son nom<br>Car l’Eternel est ma bannière (2x)"},
+      {"num":5, "text": "Jéhovah Shamma est son nom<br>Car Il est ici avec nous (2x)"},
+      {"num":6, "text": "Gloire, gloire à son nom<br>Il vit et règne éternellement (2x)."}
+    ],
+    "otherInfos": "92"
+  },
+
+  {
+    "id": 92,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "LET GLORIFY THE LORD TOGETHER",
+    "choir": "(Hosanna ! Blessed be the Rock;<br>Blessed be the Rock of my Salvation) (2x)",
+    "verses": [
+      {"num":1, "text": "I will magnify the Lord<br>For He is worthy to be praised (2x)<br>I will magnify the Lord<br>For He is worthy to be praised (2x)"},
+      {"num":2, "text": "Glory, glory to His name,<br>He lives and reigns forevermore<br>Glory, glory to His name,<br>He lives and reigns forever more."},
+      {"num":3, "text": "Jehovah Jirah is His name<br>For He provideth all my needs<br>Jehovah Jirah is His name<br>For He provideth all my needs."}
+    ],
+    "otherInfos": "91"
+  },
+
+  {
+    "id": 93,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "GOOD BYE WORLD",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Good bye world<br>I stay no longer with you<br>Good bye pleasures of sin<br>I stay no longer with you<br>I’ve made up my mind     (2x)<br>To go in that way, the rest of my life."}
+    ],
+    "otherInfos": "94"
+  },
+
+  {
+    "id": 94,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "ADIEU LE MONDE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Adieu le monde<br>Je ne peux plus être avec toi<br>Adieu les plaisirs du péché<br>Je ne veux plus vivre avec toi<br>Je me suis décidé<br>De marcher sur ce chemin à jamais<br>Je me suis décidé<br>De marcher sur ce chemin à jamais."}
+    ],
+    "otherInfos": "93"
+  },
+
+  {
+    "id": 95,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "GRACE ETONNANTE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Grâce étonnante oh! quel doux son<br>Me sauva malheureux !<br>J’étais perdu, je suis retrouvé<br>Aveugle, maintenant je vois."},
+      {"num":2, "text": "Cette grâce m’a enseigné la crainte<br>Elle ôta mes frayeurs<br>Combien précieuse parut cette grâce<br>Au moment où j’ai cru."},
+      {"num":3, "text": "A travers les dangers et pièges<br>Par où je suis venu<br>Cette grâce m’a gardé aussi loin<br>Me conduira au ciel."},
+      {"num":4, "text": "Nous avons, pendant dix mille ans<br>Brillé comme le Soleil<br>Nous pouvons louer notre Dieu<br>Plus qu’à notre début."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
-    "language": "FRANCAIS",
+    "id": 96,
+    "language": "ENGLISH",
     "author": "",
-    "title": "",
+    "title": "HE IS HOLY",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "He is Holy, He is Holy<br>Holy is the Lord<br>He is Holy, He is Holy<br>Holy is the Lord."}
+    ],
+    "otherInfos": "97"
+  },
+
+  {
+    "id": 97,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "IL EST SAINT",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Il est Saint, Il est Saint<br>Saint est le Seigneur<br>Il est Saint, Il est Saint<br>Saint est le Seigneur."}
+    ],
+    "otherInfos": "96"
+  },
+
+  {
+    "id": 98,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "HIER, AUJOURD’HUI ET POUR TOUJOURS",
+    "choir": "Hier, aujourd’hui pour toujours<br>Jésus reste le même<br>Tout peut changer mais Jésus<br>ne changera jamais<br>Gloire à Son Nom (2x)<br>Tout peut changer mais Jésus<br>ne changera jamais.",
+    "verses": [
+      {"num":1, "text": "Oh! Qu’il est doux le Message glorieux<br>La Foi proclame<br>Hier, aujourd’hui pour toujours<br>Jésus reste le même<br>Il sauve encore le pécheur<br>Et guérit les malades<br>Il console et calme la tempête<br>Gloire à Son Nom."},
+      {"num":2, "text": "Lui qui fut l’Ami des pécheurs<br>Il te cherche aussi<br>Viens pécheur t’incliner<br>A Ses pieds et repens-toi<br>Lui qui dit:<br>«Je ne te condamne pas »<br>« Vas, ne pèche plus »<br>Il te ces mots de pardon<br>Comme aux jours passés."},
+      {"num":3, "text": "Etant sur terre Il guérissait<br>Par Sa main Puissante Il ordonnera<br>Encore aux peines de nous quitter<br>Lui dont la vertu guérit<br>La femme qui le touche<br>A la Foi qui veut Sa plénitude Il donnera."},
+      {"num":4, "text": "Lui qui pardonna à Pierre<br>Il ôtera ta peur<br>Lui qui secouru Thomas<br>Il ôtera tes doutes<br>Le disciple bien-aimé<br>Se reposa sur Lui<br>Il t’accueillera avec amour<br>Dans Sa poitrine."},
+      {"num":5, "text": "Lui qui en pleine tempête<br>Marcha sur les eaux<br>Il peut calmer notre tempête<br>comme en Galilée<br>Lui qui pria avec angoisse<br>A Gethsémané<br>Il boit avec nous la coupe<br>De notre agonie."},
+      {"num":6, "text": "Comme Il marcha avec eux<br>Sur le chemin d’Emmaüs<br>Il veut marcher avec nous<br>Sur le chemin de vie<br>Nous Le contemplerons<br>O Seigneur, approche ce jour<br>Oui ce sera « Ce même Jésus »<br>Comme Il est monté."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
-    "language": "FRANCAIS",
+    "id": 99,
+    "language": "ENGLISH",
     "author": "",
-    "title": "",
+    "title": "I AM UNDER THE ROCK",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "I am under the Rock<br>The Rock is higher than I<br>Jehovah, Jehovah hide me<br>I am under the Rock<br>Until my enemies<br>I am under the Rock<br>Jehovah hide me<br>I am under the Rock"}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
-    "language": "FRANCAIS",
+    "id": 100,
+    "language": "ENGLISH",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "I SEE A CLOUD",
+    "choir": "I see a cloud Like a man’s hand<br>I see a cloud Like a man’s hand<br>I see a cloud Like a man’s hand<br>And I know it gonna rain.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Any time when it was dry<br>There up no cloud in the sky<br>The children of God began to reason why<br>so they didn’t understand<br>The time for rain was at end<br>Just like God said it would be.<br><br>But he opened out the door<br>The seventh time and looked once more<br>A tiny cloud was raising from the sea<br>They began to understand<br>The time for rain was happened<br>Just like God said it would be."},
+      {"num":2, "text": "So today we have no fear<br>We know a cloud did appear<br>The prophet screamed but  bride<br>Go through that door<br>A new Spirit you’ll receive<br>Have faith and just believe<br>The rain is truly gonna pour.<br><br>Now the bride is looking above<br>For the charity rain of love<br>To fill her heart with peace she never knows<br>And soon this bride shall be<br>God’s unfolding mystery<br>The promised word has been already sowed."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 101,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "IL DEMEURE",
+    "choir": "Il demeure, Il demeure<br>Alléluia ! Il demeure en moi<br>Marchant sur l’étroit chemin<br>J’ai la joie le jour la nuit<br>Le Consolateur demeure en moi.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Je me réjouis nuit et jour<br>Comme je marche en pèlerin<br>Car dans toute ma vie je vois<br>La main de Dieu<br>Oui le secret de ma joie<br>La raison de tout cela<br>Le Consolateur demeure en moi."},
+      {"num":2, "text": "Je vivais dans le péché<br>N’ayant point de paix en moi<br>Jusqu’au jour où j’ouïs comment<br>Jésus mourut<br>Puis je tombais à Ses pieds<br>Puis je tombais à Ses pieds<br>Le Consolateur demeure en moi."},
+      {"num":3, "text": "Il est avec moi partout<br>Et connais tous mes soucis<br>Je suis heureux et libre comme un oiseau<br>Le Saint-Esprit me contrôle<br>Jésus satisfait mon âme<br>Le Consolateur demeure en moi."},
+      {"num":4, "text": "Plus de désir pour le monde<br>Ses plaisirs ont pris des ailes<br>Il y a longtemps je les ai, abandonnés<br>Toute ma nuit changée en jour<br>Et  mes fardeaux enlevés<br>Le Consolateur demeure en moi."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 102,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "IL DESCEND",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Il descend, descend Il descend<br>L’Esprit du Seigneur descend de plus en plus<br>Quand les saints se mettent à prier<br>Demandant Sa Volonté<br>L’Esprit du Seigneur descend de plus en plus."},
+      {"num":2, "text": "Il descend, descend Il descend<br>L’Amour du Seigneur descend de plus en plus<br>Quand les saints se mettent à prier<br>Demandant Sa Volonté<br>L’Amour du Seigneur descend de plus en plus."},
+      {"num":3, "text": "Il descend, descend Il descend<br>La Joie du Seigneur descend de plus en plus<br>Quand les saints se mettent à prier<br>Demandant Sa Volonté<br>La Joie du Seigneur descend de plus en plus."},
+      {"num":4, "text": "Il descend, descend Il descend<br>La Paix du Seigneur descend de plus en plus<br>Quand les saints se mettent à prier<br>Demandant Sa Volonté<br>La Paix du Seigneur descend de plus en plus."}
+    ],
+    "otherInfos": "103"
+  },
+
+  {
+    "id": 103,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "HE’S COMING DOWN",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "He’s coming down, down, down<br>He’s coming down<br>Yes, the Glory of the Lord is coming down<br>When the saints begin to pray<br>For the Lord to have His way<br>Yes, the Glory of the Lord is coming down."},
+      {"num":2, "text": "He’s coming down, down, down<br>He’s coming down<br>Yes, the Spirit of the Lord is coming down<br>When the saints begin to pray<br>For the Lord to have His way<br>Yes, the Glory of the Lord is coming down."},
+      {"num":3, "text": "He’s coming down, down, down<br>He’s coming down<br>Yes, the Power of the Lord is coming down<br>When the saints begin to pray<br>For the Lord to have His way<br>Yes, the Power of the Lord is coming down."}
+    ],
+    "otherInfos": "102"
+  },
+
+  {
+    "id": 104,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "IL EST HEUREUX CE JOUR POUR NOUS",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Il est heureux ce jour pour nous<br>Il est béni ce jour pour vous<br>Célébrons Son Nom le Seigneur de Gloire<br>Vous a unis soyez heureux.<br><br>Comme  à l’Eden, alléluia!<br>Adam et Eve, alléluia!<br>Etaient unis, alléluia!<br>Par le  Seigneur Dieu lui même."},
+      {"num":2, "text": "Pour toi mon frère fais comme Jésus<br>Aime son Eglise sortie de Lui<br>Chair de sa chair os de ses os<br>Prends ton épouse et vivez en paix.<br><br>Comme père Abraham, alléluia!<br>Avec Sarah, alléluia!<br>Etaient bénis, alléluia!<br>Quand ils vivaient à Canaan."},
+      {"num":3, "text": "Quant à Sarah l’épouse d’Abraham<br>Elle appelait l’époux son seigneur<br>Soumise à lui selon la Parole<br>C’était l’Eglise soumise à Jésus.<br><br>Dans cette ambiance, alléluia!<br>Pleine d’espérance, alléluia!<br>Isaac vint, alléluia!<br>L’Eternel Dieu est fidele."},
+      {"num":4, "text": "Dieu vous bénisse soyez heureux<br>Soyez féconds c’est une promesse<br>Qui fut donnée là-bas à l’Eden<br>Par Dieu lui même dans Sa Parole.<br><br>Nous y voila, alléluia!<br>La fin des temps, alléluia!<br>Plus de divorce, alléluia!<br>Soyez unis pour toujours."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 105,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "IL EST TEMPS",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Il est temps de répondre à l’appel de ton Dieu<br>Il est temps de sortir de l’ombre<br>Il est temps d’ouvrir les yeux<br>Il est temps de se lever<br>De s’approcher du Dieu de Gloire<br>Pour se soumettre à Sa volonté<br>Il est temps de vivre à ses côtés."},
+      {"num":2, "text": "Ta conscience te condamne<br>Satan te réclame mais Jésus te tend la main<br>Et pour te relever pour te pardonner<br>Pour enlever ton péché<br>N’attend plus réveille toi."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 106,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "IL EST UN ESPOIR",
+    "choir": "C’est la cité du ciel<br>Le bonheur éternel<br>Séjour où les élus<br>Contemplerons Jésus",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Il est un espoir qui toujours soulage<br>les cœurs fatigués et lassés du chemin<br>Il est un repos au bout du voyage<br>A toutes nos luttes il est une fin."},
+      {"num":2, "text": "Il est un séjour où tout est lumière<br>Où rien de souillé ni d’impur n’entrera<br>Où ne seront plus ni mort ni misère<br>Où le racheté pour toujours chantera."},
+      {"num":3, "text": "Dans la cité sainte il n’y a plus de temple<br>Le Seigneur et l’Agneau seront avec nous<br>Pour l’éternité l’église contemple<br>Son bien-aimé Sauveur, Son Chef ,Son Epoux."},
+      {"num":4, "text": "O Jérusalem! Céleste patrie!<br>Tout mon cœur s’enflamme<br>Quand je pense à toi<br>Agneau mis à mort prince de la vie<br>Entends mes soupirs et l’appel de ma foi."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 107,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "IL EST UN FLEUVE",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Il est un fleuve coulant du cœur Dieu<br>C’est le grand fleuve d’un amour merveilleux<br>Je vais y boire Son Amour me remplit<br>Et Sa Victoire m’anime de l’Esprit."},
+      {"num":2, "text": "Il est un fleuve coulant des profondeurs<br>Il est une fontaine qui libère l’âme du Péché<br>Viens donc à cette eau qui jaillit en abondance<br>Il est une fontaine qui ne tarie jamais."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 108,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "IL EST UNE FONTAINE",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Il est une Fontaine pleine de Sang<br>Tiré des veines d’Emmanuel<br>Les pécheurs plongés dans ce flot<br>Perdent toutes leurs souillures<br><br>Perdent toutes leurs souillures<br>Perdent toutes leurs souillures<br>Les pécheurs plongés dans ce flot<br>Perdent toutes leurs souillures."},
+      {"num":2, "text": "Le voleur mourant s’est réjoui<br>De voir cette Fontaine<br>Et là aussi puis-je comme lui<br>Et là aussi puis-je comme lui<br><br>Laver tous mes péchés<br>Laver tous mes péchés<br>Et là aussi puis-je comme lui<br>Laver tous mes péchés."},
+      {"num":3, "text": "L’Agneau mourant , Ton Sang Précieux<br>Ne perdra pas Sa Puissance<br>Jusqu’à ce que l’Eglise de Dieu<br>Soit sauvée du péché<br><br>Soit sauvée du péché<br>Soit sauvée du péché<br>Jusqu’à ce que l’Eglise de Dieu<br>Soit sauvée du péché."},
+      {"num":4, "text": "Par la foi j’ai vu ce ruisseau<br>Sortant de Tes blessures<br>L’Amour Rédempteur est mon thème<br>Jusqu’au jour de ma mort<br><br>Jusqu’au jour de ma mort<br>Jusqu’au jour de ma mort<br>L’Amour Rédempteur est mon thème<br>Jusqu’au jour de ma mort."},
+      {"num":5, "text": "Puis dans un chant noble et doux<br>Je chanterai Ta Puissance<br>Lorsque mes lèvres tremblantes<br><br>Descendront au tombeau<br><br>Descendront au tombeau<br>Descendront au tombeau<br>Lorsque mes lèvres tremblantes<br>Descendront au tombeau."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 109,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "IL ME GARDE VIVANT",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Il est tout autour de moi<br>Et Il me garde vivant<br>Il me garde vivant<br>Il me garde vivant<br><br>Il est tout autour de moi<br>Et Il me garde vivant<br>Jésus-Christ me garde vivant."},
+      {"num":2, "text": "C’est le feu du Saint-Esprit<br>Qui est tout  autour de moi<br>Qui me garde vivant<br>Qui me garde vivant<br><br>C’est le feu du Saint-Esprit<br>Qui est tout autour de moi<br>Jésus-Christ me garde vivant."}
+    ],
+    "otherInfos": "110"
+  },
+
+  {
+    "id": 110,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "HE KEEPS ME ALIVE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "He is all over me<br>And He is keeping me alive<br>He is keeping me alive<br>He is keeping me alive<br><br>And He is all over me<br>He is keeping me alive<br>Jesus is keeping me alive."}
+    ],
+    "otherInfos": "109"
+  },
+
+  {
+    "id": 111,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "IL NE FAILLIT JAMAIS",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "Il ne faillit jamais, Il ne faillit jamais<br>Non Jésus-Christ ne faillit jamais<br>Tout le long du chemin je vais le répéter<br>Non Jésus-Christ ne faillit jamais."},
+      {"num":2, "text": "Et même si j’ai failli, et même si j’ai failli<br>Non Jésus-Christ ne faillit jamais<br>Tout le long du chemin je vais le répéter<br>Non Jésus-Christ ne faillit jamais."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 112,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "IL RUISSELLE DE SANG",
+    "choir": "Il ruisselle de Sang (2x)<br>L’Evangile du Saint-Esprit<br>Il ruisselle de Sang<br>Le sang des disciples<br>Morts pour la vérité<br>L’Evangile du Saint-Esprit<br>Il ruisselle de Sang.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Le premier à mourir<br>Pour le plan de l’Esprit<br>Fut Jean le baptiste<br>Mais il mourut  en homme<br>Puis le Seigneur Jésus<br>Ils L’ont crucifié<br>Il prêcha que l’Esprit<br>Sauverait le pécheur."},
+      {"num":2, "text": "Il y avait Pierre et Paul<br>Et puis Jean le divin<br>Ils ont donné leur vie<br>Pour que l’Evangile brille<br>Ils ont mêlé leur sang<br>Comme les anciens prophètes<br>Pour que la Parole vraie<br>Soit fidèlement prêchée."},
+      {"num":3, "text": "Ils lapidèrent Etienne<br>Qui condamnait le mal<br>Excitant leur colère<br>Ils brisèrent sa tête<br>Il mourut dans l’Esprit<br>Il rendit son âme<br>Il alla rejoindre<br>Tous les anciens martyrs."},
+      {"num":4, "text": "Des âmes sont sous l’autel<br>Criant : « Jusqu’à quand »<br>Pour que le Seigneur punisse<br>Tous ceux qui font le mal<br>Il y en aura beaucoup<br>Dont le Sang coulera<br>A cause de l’Evangile<br>Et du flot cramoisi."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
-    "language": "FRANCAIS",
+    "id": 113,
+    "language": "ITALIANO",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "IL TEMPIO DI DIO",
+    "choir": "Il tempio di Dio voglio essere anch’io<br>Sentirmi ripieno di Te<br>Morire davvero al mondo che<br>Lontano mi porta da Te",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Con tutto il cuor io vengo a Te, o Eterno Iddio<br>Nel nome Santo di Gesù Cristo, il Signor<br>Per donare in quest’ora soltanto a Te,<br>Tutto quanto fa parte di me"},
+      {"num":2, "text": "Col sangue del figliuolo Tuo distruggi Tu<br>La schiavitù che mi separa da Te<br>Il peccato che io non sopporto più<br>Sono pronto, mi pento, Signor !"},
+      {"num":3, "text": "Voglio vedere la gloria Tua lassù nel ciel<br>Voglio sentir la Tua presenza dentro me<br>Per parlar Ti, ascoltar Ti seguir Ti ancor<br>risplender di luce e d’amor."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 114,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "IL YA UN CHEMIN",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Il ya un chemin pour la Gloire<br>Un chemin de sainteté<br>Où s’avancent les rachetés<br>Ô ce chemin pour la Gloire<br>Nous ramène dans la présence de notre Roi."},
+      {"num":2, "text": "Il ya un chemin pour la Gloire<br>Un chemin de sainteté<br>Où s’avancent les rachetés<br>Ô ce chemin pour la Gloire<br>Nous ramène dans la présence de notre Roi."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 115,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "IL Y A UN JOUR QUI VIENT",
+    "choir": "Oh ! Quel jour ça sera<br>Quand je verrai mon Jésus<br>Et je vois  de face<br>Celui qui m’a sauvé par Sa grâce<br>Quand Il me prend  par la main<br>Me conduit à la terre promise<br>Oh ! Quel jour, glorieux jour ça sera.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Il y a un jour qui vient<br>Où les maux ne seront plus<br>Ni les nuages dans le ciel<br>Plus de larmes à jamais<br>Tout est paix et pour toujours<br>Sur l’autre rive pavée d’or<br>Oh ! Quel jour, glorieux jour ça sera."},
+      {"num":2, "text": "Il y aura ni chagrin, ni fardeau à porter<br>Non plus la maladie, douleur et séparation<br>Pour toujours je serai avec<br>Celui qui est mort pour moi<br>Oh ! Quel jour, glorieux jour ça sera."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 116,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "ILS VIENNENT",
+    "choir": "Je suis si heureux depuis<br>Que Jésus m’a libéré<br>Il n’y a pas longtemps j’étais si chargé<br>Son joug est si doux pour moi<br>Mon âme était plus que nuit<br>Mais tout s’est envolé<br>Maintenant je crie victoire<br>Car Jésus m’a libéré.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Ils viennent de l’Est et l’Ouest<br>Ils viennent de lointains pays<br>A la fête du Roi, manger à Sa table<br>Oh, quels pèlerins bénis<br>Contemplant Son Saint visage<br>Brillant d’éclats divins<br>Participant de Sa Grâce<br>Comme joyaux de Sa couronne."},
+      {"num":2, "text": "Je regarde le Grand Trône blanc<br>Devant se tiennent les sauvés<br>Maintenant plus de larmes<br>Ni chagrins connus<br>Ni mort dans ce beau pays<br>Mon Sauveur m’a précédé<br>Me préparant la voie<br>Bientôt nous serons ensemble"},
+      {"num":3, "text": "Les portails de ce lieu saint<br>Restent ouverts nuit et jour<br>Regarde au Seigneur<br>Qui donne plus de Grâce<br>Dont l’Amour a préparé<br>Une place dans Ses belles demeures<br>Qu’Il réserva pour toi<br>Pour te préparer aux noces<br>Obéis à cet appel."},
+      {"num":4, "text": "Oh, Jésus revient bientôt<br>Alors nos peines sont finies<br>Si notre Seigneur venait maintenant<br>Pour ceux qui sont sans péché<br>Aurez-vous alors la joie<br>Ou le chagrin, la peine<br>Quand Il viendra dans Sa Gloire<br>Nous Le rencontrerons là-haut."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 117,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "JE M'EN VAIS VOIR",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Je m’en vais voir mon Jésus bientôt   (4x)"},
+      {"num":2, "text": "Je vais aller au Ciel bientôt         (4x)"},
+      {"num":3, "text": "Je vais chanter au Ciel bientôt       (4x)"},
+      {"num":4, "text": "Je vais louer au Ciel bientôt         (4x)"},
+      {"num":5, "text": "Je vais danser au Ciel bientôt        (4x)"},
+      {"num":6, "text": "Je vais crier au Ciel bientôt         (4x)"}
+    ],
+    "otherInfos": "118"
+  },
+
+  {
+    "id": 118,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "I’M GONNA SEE",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "I’m gonna see my Jesus one day       (4x)"},
+      {"num":2, "text": "I’m gonna walk in heaven one day     (4x)"},
+      {"num":3, "text": "I’m gonna go in heaven one day       (4x)"},
+      {"num":4, "text": "I’m gonna sing in heaven one day     (4x)"},
+      {"num":5, "text": "I’m gonna praise in heaven one day   (4x)"},
+      {"num":6, "text": "I’m gonna dance in heaven one day    (4x)"},
+      {"num":7, "text": "I’m gonna shout in heaven one day    (4x)"}
+    ],
+    "otherInfos": "117"
+  },
+  {
+    "id": 119,
+    "language": "ENGLISH",
+    "author": "",
+    "title": "IN HIS TIME",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "In His time, in His time<br>He makes all things beautiful<br>In His time<br>Lord, please, show me every day<br>As you’re teaching me your way<br>That You do just what You say<br>In Your time."},
+      {"num":2, "text": "In Your time, in your time<br>You make all things beautiful<br>In Your time<br>Lord, my life to You I bring<br>May each song I have to sing<br>Be to you a lovely thing<br>In your time."}
+    ],
+    "otherInfos": "120"
+  },
+
+  {
+    "id": 120,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "EN SON TEMPS",
+    "choir": "",
+    "verses": [
+      {"num":1, "text": "En Son temps, en Son temps<br>Il fait toutes choses belles<br>En Son temps<br>Seigneur, montre-moi chaque jour<br>Comme tu m’enseignes Ta voie<br>Que Tu accomplis ce que Tu dis<br>En Ton temps."},
+      {"num":2, "text": "En Ton temps, en Ton temps<br>Tu fais toutes choses belles<br>En Ton temps<br>Seigneur, je T’apporte ma vie<br>Que chaque cantique que je chante<br>Soit pour Toi une chose aimable<br>En Ton temps."}
+    ],
+    "otherInfos": "119"
+  },
+
+  {
+    "id": 121,
+    "language": "FRANCAIS",
+    "author": "",
+    "title": "J’ENTENDS TA DOUCE VOIX",
+    "choir": "Jésus Roi des rois<br>Qui mourus pour moi,<br>Je veux mourir avec Toi<br>Avec Toi sur la Croix.",
+    "verses": [
+      {"num":1, "text": "J’entends Ta douce voix<br>Jésus je viens à Toi.<br>Je viens Oh ! Sauveur lave-moi<br>Dans le Sang de Ta croix."},
+      {"num":2, "text": "J’entends Ta douce voix<br>Qui me dit crois en moi<br>Je crois Seigneur soutiens ma foi<br>Tiens-moi près de Ta Croix."},
+      {"num":3, "text": "J’entends Ta douce voix<br>Elle pénètre en moi<br>Et me dit d’aimer comme Toi<br>De l’Amour de la Croix."},
+      {"num":4, "text": "J’entends Ta douce voix<br>Toi qui mourus pour moi<br>Seigneur que je m’unisse à Toi<br>Dans Ta mort par la foi."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 122,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "J’ABANDONNE TOUT",
+    "choir": "J’abandonne tout j’abandonne tout<br>Tout à Lui mon Sauveur béni<br>J’abandonne tout.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "Tout à Jésus j’abandonne<br>Je Lui donne tout librement<br>Et je me confierai en Lui<br>Je vivrai dans Sa présence."},
+      {"num":2, "text": "Tout à Jésus j’abandonne<br>Je me prosterne à Ses pieds<br>Les plaisirs du monde oubliés<br>Jésus prends-moi maintenant."},
+      {"num":3, "text": "Tout à Jésus j’abandonne<br>Fais-moi Sauveur tout à toi<br>Laisse-moi sentir le Saint-Esprit<br>Savoir que Tu es pour moi."},
+      {"num":4, "text": "Tout à Jésus j’abandonne<br>Seigneur je me donne à Toi<br>Remplis-moi de Ta Puissance<br>Sur moi laisse Tes bénédictions."},
+      {"num":5, "text": "Tout à Jésus j’abandonne<br>Et je suis le feu sacré<br>Oh! La joie du salut parfait<br>Gloire gloire à Son nom."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 123,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
-    "choir": "",
+    "title": "J’AI DE LA JOIE",
+    "choir": "Il est mon Bonheur<br>Il est mon Bonheur<br>Je me réjouis<br>Car Il est mon Bonheur.",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "J’ai de la joie dans mon cœur<br>Lorsqu’on me dit:<br>Allons à la maison de l’Eternel<br>Voici le jour que le Seigneur a fait<br>Je me réjouis car Il est mon bonheur."},
+      {"num":2, "text": "Il est mon Salut<br>Il est mon Salut<br>Je me réjouis<br>Car Il est mon Salut."},
+      {"num":3, "text": "Il est ma Victoire<br>Il est ma Victoire<br>Je me réjouis<br>Car Il est ma Victoire."}
     ],
     "otherInfos": ""
   },
 
   {
-    "id": 1,
+    "id": 124,
     "language": "FRANCAIS",
     "author": "",
-    "title": "",
+    "title": "J’AI DECIDE DE SUIVRE JÉSUS",
     "choir": "",
     "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 1,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
+      {"num":1, "text": "J’ai décidé de suivre Jésus (3x)<br>Oui, sans détour et pour toujours."},
+      {"num":2, "text": "La Croix devant moi<br>Le monde derrière moi (3x)<br>Oui, sans détour et pour toujours."},
+      {"num":3, "text": "Fini avec le monde<br>Maintenant c’est Jésus (3x)<br>Oui, sans détour et pour toujours."},
+      {"num":4, "text": "Et si je suis seul<br>A suivre Jésus (3x)<br>Je Le suivrai, je Le suivrai."}
     ],
     "otherInfos": ""
   },

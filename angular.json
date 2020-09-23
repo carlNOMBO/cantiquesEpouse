@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "C:/wamp64/www/Cantiques_de_l_Epouse/dist/cantiquesEpouse",
+            "outputPath": "C:/wamp64/www/cantiques",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
