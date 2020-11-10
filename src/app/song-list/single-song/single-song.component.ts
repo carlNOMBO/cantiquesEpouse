@@ -12,7 +12,7 @@ import { SongsService } from '../../services/songs.service';
 export class SingleSongComponent implements OnInit {
 
   song: Song;
-  imgPathBack: any = '../../../assets/img/arrow_back-24px.svg';
+  imgPathBack: any = './assets/img/arrow_back-24px.svg';
 
   constructor(private location: Location, private route: ActivatedRoute, private songsService: SongsService) { }
 
