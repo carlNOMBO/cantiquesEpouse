@@ -14,7 +14,7 @@ export class HeaderComponent implements OnInit {
 
   title = "Cantiques de l'Epouse";
   imgPathTrumpet: any = './assets/img/trumpet1.png';
-  languages = ['Tous','Français','English','Lingala','Italiano'];
+  languages = ['Tous','Français','English','Lingala','Swahili','Italiano'];
 
   constructor(private router: Router) { }
 
