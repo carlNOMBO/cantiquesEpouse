@@ -37,7 +37,22 @@ export class SongsService {
     const songs: Song[] = new Array();
 
     this.songs.forEach( (song) => {
-      if (song.title.toLowerCase().includes(text.trim().toLowerCase()) || song.choir.toLowerCase().includes(text.trim().toLowerCase())) {
+      if (song.title.toUpperCase().includes(text.trim().toUpperCase()) || song.choir.toUpperCase().includes(text.trim().toUpperCase())) {
+        songs.push(song);
+      }
+    });
+    return songs;
+  }
+
+  filterSongsBylanguage(text: string) {
+    const songs: Song[] = new Array();
+    
+    if (text.toUpperCase().includes('TOUS')) {
+      return this.songs ;
+    }
+
+    this.songs.forEach( (song) => {      
+      if (song.language.toUpperCase().includes(text.trim().toUpperCase())) {
         songs.push(song);
       }
     });

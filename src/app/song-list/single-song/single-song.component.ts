@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import {Location, LocationStrategy, PathLocationStrategy} from '@angular/common';
 import { Song } from '../../models/song.model';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { SongsService } from '../../services/songs.service';
 
 @Component({
@@ -14,7 +14,8 @@ export class SingleSongComponent implements OnInit {
   song: Song;
   imgPathBack: any = './assets/img/arrow_back-24px.svg';
 
-  constructor(private location: Location, private route: ActivatedRoute, private songsService: SongsService) { }
+  constructor(private location: Location, private router: Router,
+              private route: ActivatedRoute, private songsService: SongsService) { }
 
   ngOnInit() {
     this.song = new Song();
@@ -23,5 +24,9 @@ export class SingleSongComponent implements OnInit {
 
   onBack() {
     this.location.back();
+  }
+
+  onBtnSearchClicked(text: any) {
+    this.router.navigate(['/songs']);
   }
 }

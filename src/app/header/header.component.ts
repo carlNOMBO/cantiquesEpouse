@@ -1,4 +1,4 @@
-import { Component, OnInit, Output, EventEmitter } from '@angular/core';
+import { Component, OnInit, Output, EventEmitter, Input } from '@angular/core';
 import { Router } from '@angular/router';
 
 @Component({
@@ -11,10 +11,13 @@ export class HeaderComponent implements OnInit {
   @Output()
   searchValueChange: EventEmitter<string> = new EventEmitter<string>();
   searchValue: string;
+  
+  @Output() btnSearchClicked: EventEmitter<string> = new EventEmitter<string>();
+  @Output() languageChanged: EventEmitter<string> = new EventEmitter<string>();
 
   title = "Cantiques de l'Epouse";
   imgPathTrumpet: any = './assets/img/trumpet1.png';
-  languages = ['Tous','Français','English','Lingala','Swahili','Italiano'];
+  languages = ['Tous','Francais','English','Lingala','Swahili','Italiano'];
 
   constructor(private router: Router) { }
 
@@ -33,4 +36,12 @@ export class HeaderComponent implements OnInit {
     this.searchValueChange.emit(value);
   }
 
+  onBtnSearchClicked(value: string){    
+    this.searchValue = value;
+    this.btnSearchClicked.emit(value)
+  }
+
+  onLanguageChanged(value: string){
+    this.languageChanged.emit(value);
+  }
 }

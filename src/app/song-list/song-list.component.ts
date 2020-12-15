@@ -32,6 +32,15 @@ export class SongListComponent implements OnInit {
     this.songs = this.songsService.filterSongsByTitleChoir(text);
   }
 
+  onBtnSearchClicked(text: any) {
+    this.router.navigate(['/songs']);
+    this.songs = this.songsService.filterSongsByTitleChoir(text);
+  }
+
+  onLanguageChanged(lan: any){
+    this.songs = this.songsService.filterSongsBylanguage(lan);
+  }
+
   getChoirInline(choir: string) {
     const textByLines = choir.split('<br>');
     let text = '';
