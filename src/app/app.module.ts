@@ -16,6 +16,8 @@ import { AuthGuardService } from './services/auth-guard.service';
 // import { from } from 'rxjs';
 // import { Routes, RouterModule } from '@angular/router';
 import { SharedModulesModule } from './shared-modules/shared-modules.module';
+import { NoopAnimationsModule } from '@angular/platform-browser/animations';
+import { SidemenuComponent } from './sidemenu/sidemenu.component';
 
 @NgModule({
   declarations: [
@@ -25,12 +27,14 @@ import { SharedModulesModule } from './shared-modules/shared-modules.module';
     SongListComponent,
     SingleSongComponent,
     SigninComponent,
-    SongFormComponent
+    SongFormComponent,
+    SidemenuComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    SharedModulesModule
+    SharedModulesModule,
+    NoopAnimationsModule
   ],
   providers: [SongsService, AuthService, AuthGuardService, {provide: LocationStrategy, useClass: HashLocationStrategy}],
   bootstrap: [AppComponent]

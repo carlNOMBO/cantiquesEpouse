@@ -4,6 +4,7 @@ import { SingleSongComponent } from './song-list/single-song/single-song.compone
 import { SongListComponent } from './song-list/song-list.component';
 import { SigninComponent } from './auth/signin/signin.component';
 import { SongFormComponent } from './song-list/song-form/song-form.component';
+import { SidemenuComponent } from './sidemenu/sidemenu.component';
 
 const routes: Routes = [
   //{path: 'Accueil/songslist/view/:id', component: SingleSongComponent},
@@ -12,6 +13,7 @@ const routes: Routes = [
   {path: 'songs', component: SongListComponent},
   {path: 'songs/new', component: SongFormComponent},
   {path: 'songs/view/:id', component: SingleSongComponent},
+  {path: 'songs/menu', component: SidemenuComponent},
   {path: '**', redirectTo: 'songs' , pathMatch: 'full'}
 ];
 
