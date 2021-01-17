@@ -28,13 +28,25 @@ export class SongListComponent implements OnInit {
     this.router.navigate(['/songs', 'view', id]);
   }
 
-  onSearch(text: any) {
-    this.songs = this.songsService.filterSongsByTitleChoir(text);
+  onSearch(searchObject: {searchVal:string , mode:number}) {
+    switch (searchObject.mode) {
+      case 1: this.songs = this.songsService.filterSongsByTitleChoir(searchObject.searchVal);
+        break;
+
+      case 2: this.songs = this.songsService.filterSongsByVerses(searchObject.searchVal);
+        break;
+
+      case 3: this.songs = this.songsService.findInAll(searchObject.searchVal);
+        break;
+
+      default: this.songs = this.songsService.filterSongsByTitleChoir(searchObject.searchVal);
+        break;
+    }
   }
 
-  onBtnSearchClicked(text: any) {
+  onBtnSearchClicked(searchObject: {searchVal:string , mode:number}) {
     this.router.navigate(['/songs']);
-    this.songs = this.songsService.filterSongsByTitleChoir(text);
+    //this.songs = this.songsService.filterSongsByTitleChoir(text);
   }
 
   onLanguageChanged(lan: any){

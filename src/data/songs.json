@@ -729,7 +729,7 @@
     "id": 54,
     "language": "ENGLISH",
     "author": "",
-    "title": "",
+    "title": "CRUCIFIED",
     "choir": "Crucified<br>Lead behind the stone<br>You live to die<br>Rejected and alone<br>Like a rose trampled on the ground<br>You took the fall<br>And thought of me<br>Above all",
     "verses": [
       {"num":1, "text": "Above all powers<br>Above all kings<br>Above all nature<br>And all created things<br>Above all wisdom<br>And all the ways of men<br>You were here before the world began."},
@@ -1007,18 +1007,6 @@
       {"num":2, "text": "And for these blessings<br>We lift our hearts in prayer<br>Without any doubt we’ll know<br>That we shall leave this place."}
     ],
     "otherInfos": "73"
-  },
-
-  {
-    "id": 75,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
   },
 
   {
@@ -2904,18 +2892,6 @@
   },
 
   {
-    "id": 212,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
-    ],
-    "otherInfos": ""
-  },
-
-  {
     "id": 213,
     "language": "FRANCAIS",
     "author": "",
@@ -2941,18 +2917,6 @@
       {"num":2, "text": "Emmanuel Dieu en nous<br>Jéhovah l’Eternel<br>L’Esprit tout omniprésent<br>Qui remplit l’univers<br>Le Grand Sacrificateur<br>Et l’Agneau des pécheurs<br>L’Auteur de la Rédemption<br>Que béni soit Son Nom !"},
       {"num":3, "text": "Le commencement et la fin<br>L’Alpha et l’Oméga<br>La Vraie Parole incarnée<br>L’Ami des rachetés<br>La Sagesse et Perfection<br>Ma Justice et Puissance<br>Tout ce dont j’ai besoin<br>Je le trouve en Sa main."},
       {"num":4, "text": "Le Dieu que nous attendions<br>Sera la gaie chanson<br>de l’Israël revenu<br>Quand paraîtra Jésus<br>Il viendra pour délivrer<br>Notre Agneau immolé<br>La plénitude est en Lui<br>Le Vainqueur de la Nuit."}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 215,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
     ],
     "otherInfos": ""
   },
@@ -3173,18 +3137,6 @@
       {"num":1, "text": "The windows of heaven Are open<br>The blessings are falling Tonight<br>There’s joy, joy, joy in my soul<br>since jesus made every thing right ;<br>I gave him my old tattered Garment,<br>He gave me a rob of pure White<br>I’m feasting on manna From heaven<br>And that’s why i’m happy Tonight."}
     ],
     "otherInfos": "229"
-  },
-
-  {
-    "id": 231,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "L’ETERNEL EST MON BERGER",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "L’Eternel est mon Berger<br>Je ne manquerai de rien<br>Alléluia! Ô ô ô<br>Alléluia! Alléluia! Ô ô ô<br>Alléluia! Ô ô ô<br>Alléluia! Alléluia! Ô ô ô."}
-    ],
-    "otherInfos": ""
   },
 
   {
@@ -4211,8 +4163,8 @@
   {
     "id": 306,
     "language": "FRANCAIS",
-    "author": "PARTOUT DANS LE MONDE",
-    "title": "",
+    "author": "",
+    "title": "PARTOUT DANS LE MONDE",
     "choir": "",
     "verses": [
       {"num":1, "text": "Partout dans le monde le Saint-Esprit agit<br>Partout dans le monde<br>Comme le prophète nous l’a prédit<br>Partout dans le monde<br>Il y a une révélation puissante<br>De la Gloire du Seigneur<br>Comme les eaux couvrent la mer."},
@@ -4556,18 +4508,6 @@
       {"num":1, "text": "Oh! Quel beau jour, jour de mon choix<br>Sur Toi mon Sauveur et mon Dieu<br>Oh! Mon cœur rayonnant de joie<br>Exprime partout son ravissement."},
       {"num":2, "text": "Oh! Quel beau lien scellant mes vœux<br>A Lui qui mérite mon amour<br>Puissent les chants remplir Sa maison<br>Pendant que je vais à l’autel."},
       {"num":3, "text": "L’accord est fait avec Jésus<br>Il est à moi, je suis à Lui<br>Il me conduit et je Le suis<br>Brûlant de confesser Sa voix."}
-    ],
-    "otherInfos": ""
-  },
-
-  {
-    "id": 330,
-    "language": "FRANCAIS",
-    "author": "",
-    "title": "",
-    "choir": "",
-    "verses": [
-      {"num":1, "text": "<br><br><br><br>"}
     ],
     "otherInfos": ""
   },

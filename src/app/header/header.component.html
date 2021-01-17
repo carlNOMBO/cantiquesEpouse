@@ -5,25 +5,49 @@
   </div>
 
   <nav class="row navbar navbar-expand d-flex justify-content-between shadow p-3 mb-5 bound">
-    <div class="col-1 m-0 p-0"><app-sidemenu></app-sidemenu></div>
-      
-    <div class="col-7 col-sm-6 col-md-6 col-lg-5 col-xl-5 input-group bound">
-      <input #ListingSearch [ngModel]="searchValue" (ngModelChange)="onChange($event)" type="text" class="form-control" placeholder="Rechercher" aria-describedby="basic-addon1">
-      <div class="input-group-append">
-        <button class="btn btn-outline-secondary" type="button" id="button-addon2" (click)="onBtnSearchClicked(ListingSearch.value)">
-          <span>
-            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-search" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-              <path fill-rule="evenodd" d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"/>
-              <path fill-rule="evenodd" d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"/>
-            </svg>
-          </span>
-        </button>
+    <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="row">
+        <div class="col-1 m-0 p-0"><app-sidemenu></app-sidemenu></div>
+
+        <div class="col-7 col-sm-6 col-md-6 col-lg-5 col-xl-5 input-group bound">
+          <input #ListingSearch [ngModel]="searchValue" (ngModelChange)="onChange($event)" type="text" class="form-control" placeholder="Rechercher" aria-describedby="basic-addon1">
+          <div class="input-group-append">
+            <button class="btn btn-outline-secondary" type="button" id="button-addon2" (click)="onBtnSearchClicked(ListingSearch.value)">
+              <span>
+                <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-search" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                  <path fill-rule="evenodd" d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"/>
+                  <path fill-rule="evenodd" d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"/>
+                </svg>
+              </span>
+            </button>
+          </div>
+        </div>
+
+        <select #langs (change)="onLanguageChanged(langs.value)"
+                class="col-3 col-sm-3 col-md-2 col-lg-2 col-xl-2 form-control bound">
+          <option *ngFor='let language of languages'>{{language}}</option>
+        </select>
+      </div>
+
+      <div class="row">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12 justify-content-around">
+          <div class="custom-control custom-radio custom-control-inline">
+            <input type="radio" id="titreChoeur" name="modeRecherche" class="custom-control-input" checked="checked"
+                   [value]="1" [(ngModel)]="selectedMode">
+            <label class="custom-control-label" for="titreChoeur">Titre & choeur</label>
+          </div>
+          <div class="custom-control custom-radio custom-control-inline">
+            <input type="radio" id="couplet" name="modeRecherche" class="custom-control-input"
+                   [value]="2" [(ngModel)]="selectedMode">
+            <label class="custom-control-label" for="couplet">Couplet</label>
+          </div>
+          <div class="custom-control custom-radio custom-control-inline">
+            <input type="radio" id="tout" name="modeRecherche" class="custom-control-input"
+                   [value]="3" [(ngModel)]="selectedMode">
+            <label class="custom-control-label" for="tout">Tout</label>
+          </div>
+        </div>
       </div>
     </div>
-
-    <select #langs (change)="onLanguageChanged(langs.value)" 
-            class="col-3 col-sm-3 col-md-2 col-lg-2 col-xl-2 form-control bound">
-      <option *ngFor='let language of languages'>{{language}}</option>
-    </select>
   </nav>
 </header>
