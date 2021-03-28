@@ -2,8 +2,9 @@
   <app-header (btnSearchClicked)="onBtnSearchClicked($event)"></app-header>
 
   <div class="container">
-    <div class="row mb-4">
+    <div class="row mb-4 d-flex justify-content-between">
       <button class="btn btn link col-2" (click)="onBack()"><img classe ="img" [src]="imgPathBack"/></button>
+      <button class="" mat-mini-fab color="Basic" (click)="onPlay()"><mat-icon>play_arrow</mat-icon></button>
     </div>
 
     <div class="row row-cols-3 d-flex justify-content-around">
@@ -20,5 +21,4 @@
       </div>
     </div>
   </div>
-
 </div>

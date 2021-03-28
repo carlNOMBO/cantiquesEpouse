@@ -18,6 +18,7 @@ import { AuthGuardService } from './services/auth-guard.service';
 import { SharedModulesModule } from './shared-modules/shared-modules.module';
 import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 import { SidemenuComponent } from './sidemenu/sidemenu.component';
+import { DiaporamaComponent } from './song-list/diaporama/diaporama.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { SidemenuComponent } from './sidemenu/sidemenu.component';
     SingleSongComponent,
     SigninComponent,
     SongFormComponent,
-    SidemenuComponent
+    SidemenuComponent,
+    DiaporamaComponent
   ],
   imports: [
     BrowserModule,
@@ -37,6 +39,7 @@ import { SidemenuComponent } from './sidemenu/sidemenu.component';
     NoopAnimationsModule
   ],
   providers: [SongsService, AuthService, AuthGuardService, {provide: LocationStrategy, useClass: HashLocationStrategy}],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  entryComponents: [DiaporamaComponent]
 })
 export class AppModule { }

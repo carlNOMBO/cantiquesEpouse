@@ -39,3 +39,6 @@ testem.log
 Thumbs.db
 
 C:/
+
+#Autres
+src/data/songs (1).json
