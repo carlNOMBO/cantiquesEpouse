@@ -1462,11 +1462,11 @@
     "title": "IL EST UNE FONTAINE",
     "choir": "",
     "verses": [
-      {"num":1, "text": "Il est une Fontaine pleine de Sang<br>Tiré des veines d’Emmanuel<br>Les pécheurs plongés dans ce flot<br>Perdent toutes leurs souillures<br><br>Perdent toutes leurs souillures<br>Perdent toutes leurs souillures<br>Les pécheurs plongés dans ce flot<br>Perdent toutes leurs souillures."},
-      {"num":2, "text": "Le voleur mourant s’est réjoui<br>De voir cette Fontaine<br>Et là aussi puis-je comme lui<br>Et là aussi puis-je comme lui<br><br>Laver tous mes péchés<br>Laver tous mes péchés<br>Et là aussi puis-je comme lui<br>Laver tous mes péchés."},
-      {"num":3, "text": "L’Agneau mourant , Ton Sang Précieux<br>Ne perdra pas Sa Puissance<br>Jusqu’à ce que l’Eglise de Dieu<br>Soit sauvée du péché<br><br>Soit sauvée du péché<br>Soit sauvée du péché<br>Jusqu’à ce que l’Eglise de Dieu<br>Soit sauvée du péché."},
-      {"num":4, "text": "Par la foi j’ai vu ce ruisseau<br>Sortant de Tes blessures<br>L’Amour Rédempteur est mon thème<br>Jusqu’au jour de ma mort<br><br>Jusqu’au jour de ma mort<br>Jusqu’au jour de ma mort<br>L’Amour Rédempteur est mon thème<br>Jusqu’au jour de ma mort."},
-      {"num":5, "text": "Puis dans un chant noble et doux<br>Je chanterai Ta Puissance<br>Lorsque mes lèvres tremblantes<br><br>Descendront au tombeau<br><br>Descendront au tombeau<br>Descendront au tombeau<br>Lorsque mes lèvres tremblantes<br>Descendront au tombeau."}
+      {"num":1, "text": "Il est une Fontaine pleine de Sang<br>Tiré des veines d’Emmanuel<br>Les pécheurs plongés dans ce flot<br>Perdent toutes leurs souillures<br><br><i>Perdent toutes leurs souillures<br>Perdent toutes leurs souillures<br>Les pécheurs plongés dans ce flot<br>Perdent toutes leurs souillures.</i>"},
+      {"num":2, "text": "Le voleur mourant s’est réjoui<br>De voir cette Fontaine<br>Et là aussi puis-je comme lui<br>Laver tous mes péchés<br><br><i>Laver tous mes péchés<br>Laver tous mes péchés<br>Et là aussi puis-je comme lui<br>Laver tous mes péchés.</i>"},
+      {"num":3, "text": "L’Agneau mourant , Ton Sang Précieux<br>Ne perdra pas Sa Puissance<br>Jusqu’à ce que l’Eglise de Dieu<br>Soit sauvée du péché<br><br><i>Soit sauvée du péché<br>Soit sauvée du péché<br>Jusqu’à ce que l’Eglise de Dieu<br>Soit sauvée du péché.</i>"},
+      {"num":4, "text": "Par la foi j’ai vu ce ruisseau<br>Sortant de Tes blessures<br>L’Amour Rédempteur est mon thème<br>Jusqu’au jour de ma mort<br><br><i>Jusqu’au jour de ma mort<br>Jusqu’au jour de ma mort<br>L’Amour Rédempteur est mon thème<br>Jusqu’au jour de ma mort.</i>"},
+      {"num":5, "text": "Puis dans un chant noble et doux<br>Je chanterai Ta Puissance<br>Lorsque mes lèvres tremblantes<br>Descendront au tombeau<br><br><i>Descendront au tombeau<br>Descendront au tombeau<br>Lorsque mes lèvres tremblantes<br>Descendront au tombeau.</i>"}
     ],
     "otherInfos": ""
   },

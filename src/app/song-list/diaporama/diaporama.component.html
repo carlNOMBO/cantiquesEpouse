@@ -2,19 +2,24 @@
   <div class="row">
     <h1 class="d-flex justify-content-center col-12">{{data.title}}</h1>
   </div>
-  <div class="row h-100">
-    <div class="col-1">
-      <button mat-icon-button [disabled]="index == 0" (click)="onBackward()">
-        <mat-icon>navigate_before</mat-icon>
-      </button>
+  <div class="row h-100 w-100">
+    <div class="row w-100 d-flex justify-content-between">
+      <div class="col-1">
+        <button mat-icon-button [disabled]="index == 0" (click)="onBackward()">
+          <mat-icon>navigate_before</mat-icon>
+        </button>
+      </div>
+      <div class="col-1">
+        <button mat-icon-button [disabled]="index == content.length-1" (click)="onForeward()">
+          <mat-icon>navigate_next</mat-icon>
+        </button>
+      </div>
     </div>
-    <div class="col-10 d-flex h-100 justify-content-center">
-      <p class="align-self-center " [innerHTML]="content[index]"><P>
-    </div>
-    <div class="col-1">
-      <button mat-icon-button [disabled]="index == content.length-1" (click)="onForeward()">
-        <mat-icon>navigate_next</mat-icon>
-      </button>
+
+
+    <div id="verse" class="row h-100 w-100 d-flex justify-content-xs-center
+                            justify-content-sm-center justify-content-center">
+      <p class="align-self-center" [innerHTML]="content[index]"><P>
     </div>
   </div>
 </div>

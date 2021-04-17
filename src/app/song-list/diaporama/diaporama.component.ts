@@ -30,12 +30,14 @@ export class DiaporamaComponent implements OnInit {
   }
 
   onBackward(){
+    //console.log(window.innerWidth);
     if (this.index > 0) {
       this.index--;
     }
   }
 
   onForeward(){
+    //console.log(window.innerWidth);
     if(this.index < this.content.length - 1)
       this.index++
   }

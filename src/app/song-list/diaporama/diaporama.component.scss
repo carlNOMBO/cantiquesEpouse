@@ -2,6 +2,26 @@
   height: 95%;
 }
 
-p{
-  font-size: xx-large;
+@media screen and (max-width: 600px) {
+  .container-fluid{
+    height: 95%;
+  }
+
+  h1 {
+    font-size: 1.2em;
+  }
+
+  p {
+    font-size: 1.2em;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .container-fluid{
+    height: 95%;
+  }
+
+  p {
+    font-size: xx-large;
+  }
 }
