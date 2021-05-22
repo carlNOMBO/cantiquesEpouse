@@ -15,7 +15,7 @@ export class SingleSongComponent implements OnInit {
 
   song: Song;
   imgPathBack: any = './assets/img/arrow_back-24px.svg';
-  diapoWindowReference: any;
+  diapoWindowReference: Window;
 
   constructor(private location: Location, private router: Router,
               private route: ActivatedRoute, private songsService: SongsService,
@@ -29,20 +29,6 @@ export class SingleSongComponent implements OnInit {
 
   }
 
-  /*ngAfterViewInit() {
-    setTimeout(() => {
-      //create the component dynamically
-      const factory = this.componentFactoryResolver.resolveComponentFactory(DiaporamaComponent);
-      const comp: ComponentRef<DiaporamaComponent> =
-        this.viewContainerRef.createComponent(factory);
-      //in case you also need to inject an input to the child,
-      //like the windows reference
-      comp.instance.data = this.song;
-      //add you freshly baked component on the windows
-      this.diapoWindowReference.document.body.appendChild(comp.location.nativeElement);
-    });
-  }*/
-
   onBack() {
     this.location.back();
   }
@@ -52,24 +38,9 @@ export class SingleSongComponent implements OnInit {
   }
 
   onPlay(){
-    const dialogConfig = new MatDialogConfig;
-    dialogConfig.disableClose = false;
-    dialogConfig.autoFocus = true;
-    dialogConfig.width = window.innerWidth+'px';
-    dialogConfig.height = '100%';
-    dialogConfig.data = this.song;
-    this.dialog.open(DiaporamaComponent, dialogConfig);
-
-    /*//create the component dynamically
-    const factory = this.componentFactoryResolver.resolveComponentFactory(DiaporamaComponent);
-    const comp: ComponentRef<DiaporamaComponent> =
-      this.viewContainerRef.createComponent(factory);
-    //in case you also need to inject an input to the child,
-    //like the windows reference
-    comp.instance.data = this.song;
-    //add you freshly baked component on the windows
-    this.diapoWindowReference.document.body.appendChild(comp.location.nativeElement);*/
-
-    this.diapoWindowReference = window.open('', '_blank', "DescriptiveWindowName");
+    const url = window.location.href.replace("view","diaporama");//this.router.url
+    const windowName = url.replace(/diaporama(.*)/,"diaporama");
+    this.diapoWindowReference = window.open(url, windowName, "DescriptiveWindowName");
+    this.diapoWindowReference.location.reload();
   }
 }

@@ -7,7 +7,7 @@
   <nav class="row navbar navbar-expand d-flex justify-content-between shadow p-3 mb-5 bound">
     <div class="col-12 col-sm-12 col-md-12 col-lg-12">
       <div class="row">
-        <div class="col-1 m-0 p-0"><app-sidemenu></app-sidemenu></div>
+        <div id="Sidenav" class="col-1 m-0 p-0"><app-sidemenu></app-sidemenu></div>
 
         <div class="col-7 col-sm-6 col-md-6 col-lg-5 col-xl-5 input-group bound">
           <input #ListingSearch [ngModel]="searchValue" (ngModelChange)="onChange($event)" type="text" class="form-control" placeholder="Rechercher" aria-describedby="basic-addon1">

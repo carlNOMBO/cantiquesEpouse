@@ -16,6 +16,7 @@ const routes: Routes = [
   {path: 'songs/view/:id', component: SingleSongComponent},
   {path: 'songs/menu', component: SidemenuComponent},
   {path: 'songs/diaporama', component: DiaporamaComponent},
+  {path: 'songs/diaporama/:id', component: DiaporamaComponent},
   {path: '**', redirectTo: 'songs' , pathMatch: 'full'}
 ];
 

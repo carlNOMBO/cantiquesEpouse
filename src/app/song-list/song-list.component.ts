@@ -64,12 +64,9 @@ export class SongListComponent implements OnInit {
   }
 
   onPlay(id: number){
-    const dialogConfig = new MatDialogConfig;
-    dialogConfig.disableClose = false;
-    dialogConfig.autoFocus = true;
-    dialogConfig.width = window.innerWidth+'px';
-    dialogConfig.height = '100%';
-    dialogConfig.data = this.songsService.getSongById(id);
-    this.dialog.open(DiaporamaComponent, dialogConfig);
+    const url = window.location.href.replace("view","diaporama");//this.router.url
+    const windowName = url+"/diaporama";
+    let diapoWindowReference = window.open(url+"/diaporama/"+id, windowName, "DescriptiveWindowName");
+    diapoWindowReference.location.reload();
   }
 }
