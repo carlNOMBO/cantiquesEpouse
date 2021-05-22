@@ -3,6 +3,8 @@ import { SongsService } from '../services/songs.service';
 import { Song } from '../models/song.model';
 import { Router } from '@angular/router';
 import { Subscription } from 'rxjs';
+import { MatDialog, MatDialogConfig } from '@angular/material/dialog'
+import { DiaporamaComponent } from './diaporama/diaporama.component';
 
 @Component({
   selector: 'app-song-list',
@@ -14,7 +16,8 @@ export class SongListComponent implements OnInit {
   songs: Song[];
   songsSubscription: Subscription;
 
-  constructor(private songsService: SongsService, private router: Router) { }
+  constructor(private songsService: SongsService, private router: Router,
+              private dialog: MatDialog) { }
 
   ngOnInit() {
     // this.songs = this.songsService.getSongs();
@@ -58,5 +61,15 @@ export class SongListComponent implements OnInit {
     let text = '';
     textByLines.forEach((line) => {text += line + ' '; });
     return text;
+  }
+
+  onPlay(id: number){
+    const dialogConfig = new MatDialogConfig;
+    dialogConfig.disableClose = false;
+    dialogConfig.autoFocus = true;
+    dialogConfig.width = window.innerWidth+'px';
+    dialogConfig.height = '100%';
+    dialogConfig.data = this.songsService.getSongById(id);
+    this.dialog.open(DiaporamaComponent, dialogConfig);
   }
 }

@@ -19,6 +19,8 @@ import { SharedModulesModule } from './shared-modules/shared-modules.module';
 import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 import { SidemenuComponent } from './sidemenu/sidemenu.component';
 import { DiaporamaComponent } from './song-list/diaporama/diaporama.component';
+import { ClickStopPropagationDirective } from './directives/click-stop-propagation.directive';
+import { DiaporamaWindowComponent } from './song-list/diaporama-window/diaporama-window.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +32,9 @@ import { DiaporamaComponent } from './song-list/diaporama/diaporama.component';
     SigninComponent,
     SongFormComponent,
     SidemenuComponent,
-    DiaporamaComponent
+    DiaporamaComponent,
+    ClickStopPropagationDirective,
+    DiaporamaWindowComponent
   ],
   imports: [
     BrowserModule,

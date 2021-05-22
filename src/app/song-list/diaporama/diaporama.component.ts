@@ -14,7 +14,7 @@ export class DiaporamaComponent implements OnInit {
   content : string[];
   index : number;
 
-  constructor(@Inject(MAT_DIALOG_DATA) public data: Song) { }
+  constructor(@Inject(MAT_DIALOG_DATA) public data ?: Song) { }
 
   ngOnInit() {
     this.index = 0;

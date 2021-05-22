@@ -35,7 +35,8 @@ export class SongsService {
 
   filterSongsByTitleChoir(text: string) {
     const songs: Song[] = new Array();
-
+    const regex = /’|`/g;
+    text = text.replace(regex,"'");
     this.songs.forEach( (song) => {
       if (song.title.toUpperCase().includes(text.trim().toUpperCase()) || song.choir.toUpperCase().includes(text.trim().toUpperCase())) {
         songs.push(song);
@@ -46,7 +47,8 @@ export class SongsService {
 
   filterSongsBylanguage(text: string) {
     const songs: Song[] = new Array();
-
+    const regex = /’|`/g;
+    text = text.replace(regex,"'");
     if (text.toUpperCase().includes('TOUS')) {
       return this.songs ;
     }
@@ -61,7 +63,8 @@ export class SongsService {
 
   filterSongsByChoir(text: string): Song[]{
     const songs: Song[] = new Array();
-
+    const regex = /’|`/g;
+    text = text.replace(regex,"'");
     this.songs.forEach( (song) => {
       if (song.choir.toUpperCase().includes(text.trim().toUpperCase())) {
         songs.push(song);
@@ -72,7 +75,8 @@ export class SongsService {
 
   filterSongsByVerses(text: string): Song[]{
     const songs: Song[] = new Array();
-
+    const regex = /’|`/g;
+    text = text.replace(regex,"'");
     this.songs.forEach( (song) => {
       for (let i = 0; i < song.verses.length; i++) {
         if (song.verses[i].text.toUpperCase().includes(text.trim().toUpperCase())) {
@@ -86,7 +90,8 @@ export class SongsService {
 
   findInAll(text: string): Song[]{
     const songs: Song[] = new Array();
-
+    const regex = /’|`/g;
+    text = text.replace(regex,"'");
     this.songs.forEach( (song) => {
       if (song.title.toUpperCase().includes(text.trim().toUpperCase())) {
         songs.push(song);

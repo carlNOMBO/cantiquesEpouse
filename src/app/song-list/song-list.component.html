@@ -10,7 +10,9 @@
       <a *ngFor="let song of songs" (click)="onReadSong(song.id)" class="list-group-item list-group-item-action flex-column align-items-start">
         <div class="d-flex w-100 justify-content-between">
           <h5 class="mb-1">{{song.title}}</h5>
-          <small></small>
+          <button appClickStopPropagation class="" mat-mini-fab color="Basic" (click)="onPlay(song.id)">
+            <mat-icon>play_arrow</mat-icon>
+          </button>
         </div>
         <p class="mb-1 text-truncate">{{getChoirInline(song.choir)}}</p>
         <!--small>Par {{song.author}}</small-->
