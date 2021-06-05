@@ -1,23 +1,39 @@
 <div id="myContainer" class="">
+
   <app-header (searchValueChange)="onSearch($event)"
               (btnSearchClicked)="onSearch($event)"
-              (languageChanged)="onLanguageChanged($event)"></app-header>
+              (languageChanged)="onLanguageChanged($event)"
+              (menuToggled)="sidenav.toggle()">
+  </app-header>
+
   <div class="container">
+    <mat-drawer-container class="drawer_container row" hasBackdrop="False">
+      <mat-drawer #sidenav mode="side" class="sidenav_drawer col-12 col-sm-6 col-md-5 col-lg-4 col-xl-3">
+        <h3>Contact</h3>
+        <p>Vous avez une suggestion ou une remarque ? Contactez nous:</p>
+        <p>cantiques.epouse@gmail.com</p>
+        <h3>Aide</h3>
+        <h3>A propos</h3>
+      </mat-drawer>
+      <mat-drawer-content>
+        <h3 class="d-flex justify-content-center">Retrouvez et apprenez des cantiques dans différentes langues !</h3>
 
-    <h3 class="d-flex justify-content-center">Retrouvez et apprenez des cantiques dans différentes langues !</h3>
-
-    <div class="list-group list-group-flush">
-      <a *ngFor="let song of songs" (click)="onReadSong(song.id)" class="list-group-item list-group-item-action flex-column align-items-start">
-        <div class="d-flex w-100 justify-content-between">
-          <h5 class="mb-1">{{song.title}}</h5>
-          <button appClickStopPropagation class="" mat-mini-fab color="Basic" (click)="onPlay(song.id)">
-            <mat-icon>play_arrow</mat-icon>
-          </button>
+        <div class="list-group list-group-flush">
+          <a *ngFor="let song of songs" (click)="onReadSong(song.id)" class="list-group-item list-group-item-action flex-column align-items-start">
+            <div class="d-flex w-100 justify-content-between">
+              <h5 class="mb-1">{{song.title}}</h5>
+              <button appClickStopPropagation class="" mat-mini-fab color="Basic" (click)="onPlay(song.id)">
+                <mat-icon>play_arrow</mat-icon>
+              </button>
+            </div>
+            <p class="mb-1 text-truncate">{{getChoirInline(song.choir)}}</p>
+            <!--small>Par {{song.author}}</small-->
+          </a>
         </div>
-        <p class="mb-1 text-truncate">{{getChoirInline(song.choir)}}</p>
-        <!--small>Par {{song.author}}</small-->
-      </a>
-    </div>
+      </mat-drawer-content>
+
+    </mat-drawer-container>
+
 
   </div>
 </div>

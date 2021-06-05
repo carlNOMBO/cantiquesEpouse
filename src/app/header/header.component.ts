@@ -14,6 +14,7 @@ export class HeaderComponent implements OnInit {
 
   @Output() btnSearchClicked: EventEmitter<{searchVal:string , mode:number}> = new EventEmitter<{searchVal:string , mode:number}>();
   @Output() languageChanged: EventEmitter<string> = new EventEmitter<string>();
+  @Output() menuToggled: EventEmitter<boolean> = new EventEmitter<boolean>();
 
   title = "Cantiques de l'Epouse";
   imgPathTrumpet: any = './assets/img/trumpet1.png';
@@ -24,6 +25,10 @@ export class HeaderComponent implements OnInit {
 
   ngOnInit() {
     this.searchValue = '';
+  }
+
+  onToggleMenu(){
+    this.menuToggled.emit(true);
   }
 
   onChange(value: string) {
