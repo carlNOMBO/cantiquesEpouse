@@ -1,10 +1,11 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, ComponentFactoryResolver, ComponentRef, OnInit, ViewChild, ViewContainerRef } from '@angular/core';
 import { SongsService } from '../services/songs.service';
 import { Song } from '../models/song.model';
 import { Router } from '@angular/router';
 import { Subscription } from 'rxjs';
 import { MatDialog, MatDialogConfig } from '@angular/material/dialog'
 import { DiaporamaComponent } from './diaporama/diaporama.component';
+import { AudioplayComponent } from '../audioplay/audioplay.component';
 
 @Component({
   selector: 'app-song-list',
@@ -16,8 +17,13 @@ export class SongListComponent implements OnInit {
   songs: Song[];
   songsSubscription: Subscription;
 
+  @ViewChild('container',{static : false, read : ViewContainerRef})
+  viewPlayerContainerRef: ViewContainerRef;
+
+  private playerComponentRef: ComponentRef<any>;
+
   constructor(private songsService: SongsService, private router: Router,
-              private dialog: MatDialog) { }
+              private dialog: MatDialog, private playerFactoryResolver: ComponentFactoryResolver) { }
 
   ngOnInit() {
     // this.songs = this.songsService.getSongs();
@@ -68,5 +74,15 @@ export class SongListComponent implements OnInit {
     const windowName = url+"/diaporama";
     let diapoWindowReference = window.open(url+"/diaporama/"+id, windowName, "DescriptiveWindowName");
     diapoWindowReference.location.reload();
+  }
+
+  onPlayMusique(id: number){
+    if(this.playerComponentRef != null){
+      this.playerComponentRef.destroy();
+    }
+    let childComponent = this.playerFactoryResolver.resolveComponentFactory(AudioplayComponent);
+    this.playerComponentRef = this.viewPlayerContainerRef.createComponent(childComponent);
+    this.playerComponentRef.instance.songId = id;
+    this.playerComponentRef.instance.songTitle = this.songsService.getSongById(id).title;
   }
 }

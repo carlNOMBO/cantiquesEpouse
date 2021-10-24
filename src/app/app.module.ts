@@ -21,6 +21,7 @@ import { SidemenuComponent } from './sidemenu/sidemenu.component';
 import { DiaporamaComponent } from './song-list/diaporama/diaporama.component';
 import { ClickStopPropagationDirective } from './directives/click-stop-propagation.directive';
 import { DiaporamaWindowComponent } from './song-list/diaporama-window/diaporama-window.component';
+import { AudioplayComponent } from './audioplay/audioplay.component';
 
 @NgModule({
   declarations: [
@@ -34,7 +35,8 @@ import { DiaporamaWindowComponent } from './song-list/diaporama-window/diaporama
     SidemenuComponent,
     DiaporamaComponent,
     ClickStopPropagationDirective,
-    DiaporamaWindowComponent
+    DiaporamaWindowComponent,
+    AudioplayComponent
   ],
   imports: [
     BrowserModule,

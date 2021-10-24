@@ -6,10 +6,11 @@ import { SigninComponent } from './auth/signin/signin.component';
 import { SongFormComponent } from './song-list/song-form/song-form.component';
 import { SidemenuComponent } from './sidemenu/sidemenu.component';
 import { DiaporamaComponent } from './song-list/diaporama/diaporama.component';
+import { AudioplayComponent } from './audioplay/audioplay.component';
 
 const routes: Routes = [
   //{path: 'Accueil/songslist/view/:id', component: SingleSongComponent},
-  //{path: 'Accueil/songslist', component: SongListComponent},
+  //
   {path: 'auth/signin', component: SigninComponent},
   {path: 'songs', component: SongListComponent},
   {path: 'songs/new', component: SongFormComponent},
@@ -17,6 +18,7 @@ const routes: Routes = [
   {path: 'songs/menu', component: SidemenuComponent},
   {path: 'songs/diaporama', component: DiaporamaComponent},
   {path: 'songs/diaporama/:id', component: DiaporamaComponent},
+  {path: 'songs/audioplayer', component: AudioplayComponent},
   {path: '**', redirectTo: 'songs' , pathMatch: 'full'}
 ];
 

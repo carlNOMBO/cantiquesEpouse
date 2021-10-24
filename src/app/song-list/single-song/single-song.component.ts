@@ -1,10 +1,12 @@
-import { AfterViewInit, Component, ComponentFactoryResolver, ComponentRef, OnInit, ViewContainerRef } from '@angular/core';
+import { AfterViewInit, Component, ComponentFactoryResolver, ComponentRef, OnInit, ViewChild, ViewContainerRef } from '@angular/core';
 import {Location, LocationStrategy, PathLocationStrategy} from '@angular/common';
 import { Song } from '../../models/song.model';
 import { ActivatedRoute, Router } from '@angular/router';
 import { SongsService } from '../../services/songs.service';
 import { MatDialog, MatDialogConfig } from '@angular/material/dialog'
 import { DiaporamaComponent } from '../diaporama/diaporama.component';
+
+import{ AudioplayComponent } from '../../audioplay/audioplay.component';
 
 @Component({
   selector: 'app-single-song',
@@ -17,10 +19,15 @@ export class SingleSongComponent implements OnInit {
   imgPathBack: any = './assets/img/arrow_back-24px.svg';
   diapoWindowReference: Window;
 
+  @ViewChild('container',{static : false, read : ViewContainerRef})
+  viewPlayerContainerRef: ViewContainerRef;
+
+  private playerComponentRef: ComponentRef<any>;
+
   constructor(private location: Location, private router: Router,
               private route: ActivatedRoute, private songsService: SongsService,
               private dialog: MatDialog,
-              private componentFactoryResolver: ComponentFactoryResolver,
+              private playerFactoryResolver: ComponentFactoryResolver,
               private viewContainerRef: ViewContainerRef) { }
 
   ngOnInit() {
@@ -42,5 +49,15 @@ export class SingleSongComponent implements OnInit {
     const windowName = url.replace(/diaporama(.*)/,"diaporama");
     this.diapoWindowReference = window.open(url, windowName, "DescriptiveWindowName");
     this.diapoWindowReference.location.reload();
+  }
+
+  onPlayMusique(){
+    if(this.playerComponentRef != null){
+      this.playerComponentRef.destroy();
+    }
+    let childComponent = this.playerFactoryResolver.resolveComponentFactory(AudioplayComponent);
+    this.playerComponentRef = this.viewPlayerContainerRef.createComponent(childComponent);
+    this.playerComponentRef.instance.songId = this.song.id;
+    this.playerComponentRef.instance.songTitle = this.song.title;
   }
 }

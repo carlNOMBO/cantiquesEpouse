@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { Song } from '../models/song.model';
 import { Subject } from 'rxjs';
 import songsJSON from '../../data/songs.json';
+import { url } from 'inspector';
 
 @Injectable({
   providedIn: 'root'
@@ -9,6 +10,25 @@ import songsJSON from '../../data/songs.json';
 export class SongsService {
 
   songs: Song[] = songsJSON;
+  audios: {id:number,url:string}[] = [
+    {"id":217,"url":"./assets/audios/1 - Le Grand Jour.m4a"},
+    {"id":379,"url":"./assets/audios/2 - Sur les ailes d'une colombe.m4a"},
+    {"id":441,"url":"./assets/audios/3 - C'est La Fin.m4a"},
+    {"id":63,"url":"./assets/audios/4 - Je regarde au loin.m4a"},
+    {"id":72,"url":"./assets/audios/5 - JESUS t'appelle.m4a"},
+    {"id":213,"url":"./assets/audios/6 - Nous Voguons.m4a"},
+    {"id":388,"url":"./assets/audios/7 - Tout mon désir.m4a"},
+    {"id":240,"url":"./assets/audios/8 - Ma Richesse et ma Gloire.m4a"},
+    {"id":356,"url":"./assets/audios/9 - Roc Séculaire.m4a"},
+    {"id":224,"url":"./assets/audios/10 - Le Seigneur m'aime.m4a"},
+    {"id":155,"url":"./assets/audios/11 - Je possède Un Sauveur.m4a"},
+    {"id":44,"url":"./assets/audios/12 - Comment voulez-vous.m4a"},
+    {"id":220,"url":"./assets/audios/13 - Le Lys de la vallée.m4a"},
+    {"id":150,"url":"./assets/audios/14 - Je n'aurai pas à traverser.m4a"},
+    {"id":446,"url":"./assets/audios/15 - A Golgotha.m4a"},
+    {"id":311,"url":"./assets/audios/BENIS SOIT FILS DEDIEU.m4a"},
+    {"id":312,"url":"./assets/audios/plus tard nous saurons.m4a"}
+  ]
 
   songSubject = new Subject<Song[]>();
 
@@ -130,5 +150,16 @@ export class SongsService {
     }while(found);
 
     return songsc;
+  }
+
+  findSongAudioUrl (id: number){
+    var url = "";
+    for (const audio of this.audios) {
+      if(id == audio.id){
+        url=audio.url;
+        break;
+      }
+    }
+    return url;
   }
 }
