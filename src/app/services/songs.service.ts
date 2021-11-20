@@ -1,8 +1,11 @@
 import { Injectable } from '@angular/core';
 import { Song } from '../models/song.model';
+import { environment } from 'src/environments/environment'
 import { Subject } from 'rxjs';
 import songsJSON from '../../data/songs.json';
-import { url } from 'inspector';
+import * as firestore from 'firebase/firestore';
+import { initializeApp } from 'firebase/app';
+//import { Database } from 'firebase/database';
 
 @Injectable({
   providedIn: 'root'
@@ -34,6 +37,20 @@ export class SongsService {
 
   constructor() {
     this.songs = this.sortSongsByTiles(this.songs);
+
+        // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: "AIzaSyDDyW_6LliT2L-ZUzCWrT5euL7GNTy0Vsg",
+      authDomain: "cantiques-de-l-epouse.firebaseapp.com",
+      databaseURL: "https://cantiques-de-l-epouse-default-rtdb.europe-west1.firebasedatabase.app",
+      projectId: "cantiques-de-l-epouse",
+      storageBucket: "cantiques-de-l-epouse.appspot.com",
+      messagingSenderId: "675595001862",
+      appId: "1:675595001862:web:17af1d8447161556e32387"
+    };
+
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
   }
 
   emitSongs() {

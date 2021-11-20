@@ -24,6 +24,7 @@
     "angular-aside-menu": "^1.5.1",
     "bootstrap": "^4.6.0",
     "core-js": "^2.6.12",
+    "firebase": "^9.2.0",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
     "rfs": "^9.0.3",

@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebaseConfig: {
+    apiKey: "AIzaSyDDyW_6LliT2L-ZUzCWrT5euL7GNTy0Vsg",
+    authDomain: "cantiques-de-l-epouse.firebaseapp.com",
+    databaseURL: "https://cantiques-de-l-epouse-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "cantiques-de-l-epouse",
+    storageBucket: "cantiques-de-l-epouse.appspot.com",
+    messagingSenderId: "675595001862",
+    appId: "1:675595001862:web:17af1d8447161556e32387"
+  }
 };
 
 /*
