@@ -40,7 +40,5 @@ src/environments/*
 .DS_Store
 Thumbs.db
 
-C:/
-
 #Autres
-src/data/songs (1).json
+src/data/cantiques-de-l-epouse-default-rtdb-export.json

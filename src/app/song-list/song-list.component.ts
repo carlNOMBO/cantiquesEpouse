@@ -3,7 +3,7 @@ import { SongsService } from '../services/songs.service';
 import { Song } from '../models/song.model';
 import { Router } from '@angular/router';
 import { Subscription } from 'rxjs';
-import { MatDialog, MatDialogConfig } from '@angular/material/dialog'
+import { MatDialog, MatDialogConfig } from '@angular/material/dialog';
 import { DiaporamaComponent } from './diaporama/diaporama.component';
 import { AudioplayComponent } from '../audioplay/audioplay.component';
 
@@ -17,7 +17,7 @@ export class SongListComponent implements OnInit {
   songs: Song[];
   songsSubscription: Subscription;
 
-  @ViewChild('container',{static : false, read : ViewContainerRef})
+  @ViewChild('container', {static : false, read : ViewContainerRef})
   viewPlayerContainerRef: ViewContainerRef;
 
   private playerComponentRef: ComponentRef<any>;
@@ -31,13 +31,14 @@ export class SongListComponent implements OnInit {
       this.songs = songs;
     });
     this.songsService.emitSongs();
+    this.songsService.getSongs();
   }
 
   onReadSong(id: number) {
     this.router.navigate(['/songs', 'view', id]);
   }
 
-  onSearch(searchObject: {searchVal:string , mode:number}) {
+  onSearch(searchObject: {searchVal: string , mode: number}) {
     switch (searchObject.mode) {
       case 1: this.songs = this.songsService.filterSongsByTitleChoir(searchObject.searchVal);
         break;
@@ -53,12 +54,12 @@ export class SongListComponent implements OnInit {
     }
   }
 
-  onBtnSearchClicked(searchObject: {searchVal:string , mode:number}) {
+  onBtnSearchClicked(searchObject: {searchVal: string , mode: number}) {
     this.router.navigate(['/songs']);
-    //this.songs = this.songsService.filterSongsByTitleChoir(text);
+    // this.songs = this.songsService.filterSongsByTitleChoir(text);
   }
 
-  onLanguageChanged(lan: any){
+  onLanguageChanged(lan: any) {
     this.songs = this.songsService.filterSongsBylanguage(lan);
   }
 
@@ -69,20 +70,14 @@ export class SongListComponent implements OnInit {
     return text;
   }
 
-  onPlay(id: number){
-    const url = window.location.href.replace("view","diaporama");//this.router.url
-    const windowName = url+"/diaporama";
-    let diapoWindowReference = window.open(url+"/diaporama/"+id, windowName, "DescriptiveWindowName");
+  onPlay(id: number) {
+    const url = window.location.href.replace('view', 'diaporama'); // this.router.url
+    const windowName = url + '/diaporama';
+    const diapoWindowReference = window.open(url + '/diaporama/' + id, windowName, 'DescriptiveWindowName');
     diapoWindowReference.location.reload();
   }
 
-  onPlayMusique(id: number){
-    if(this.playerComponentRef != null){
-      this.playerComponentRef.destroy();
-    }
-    let childComponent = this.playerFactoryResolver.resolveComponentFactory(AudioplayComponent);
-    this.playerComponentRef = this.viewPlayerContainerRef.createComponent(childComponent);
-    this.playerComponentRef.instance.songId = id;
-    this.playerComponentRef.instance.songTitle = this.songsService.getSongById(id).title;
+  onPlayMusique(id: number) {
+    this.songsService.notifyPlayMusicObservers(id);
   }
 }

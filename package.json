@@ -16,6 +16,7 @@
     "@angular/common": "~8.2.14",
     "@angular/compiler": "~8.2.14",
     "@angular/core": "~8.2.14",
+    "@angular/fire": "^6.1.5",
     "@angular/forms": "~8.2.14",
     "@angular/material": "^8.2.3",
     "@angular/platform-browser": "~8.2.14",
@@ -24,7 +25,7 @@
     "angular-aside-menu": "^1.5.1",
     "bootstrap": "^4.6.0",
     "core-js": "^2.6.12",
-    "firebase": "^9.2.0",
+    "firebase": "^7.24.0",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
     "rfs": "^9.0.3",
@@ -53,6 +54,6 @@
     "protractor": "~5.4.0",
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
-    "typescript": "~3.5.3"
+    "typescript": "^3.5.3"
   }
 }
